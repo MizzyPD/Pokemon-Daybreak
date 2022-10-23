@@ -1,0 +1,2832 @@
+﻿#-------------------------------
+[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_dive,boy_fish_offset,xxx
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_dive,girl_fish_offset,xxx
+TrainerVictoryME=Battle victory trainer.ogg
+WildVictoryME=Battle victory wild.ogg
+TrainerBattleBGM=[DB] Trainer Battle.ogg
+SurfBGM=[GBA-style] ORAS - Soaring! (Day).ogg
+BicycleBGM=[GBA-Style] DPPt - Cycling Theme.ogg
+Home=217,22,5,8
+WildBattleBGM=[DB] Wild Battle.ogg
+#-------------------------------
+[001]
+# Intro
+#-------------------------------
+[002]
+# Lappet Town
+MapPosition=0,13,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[003]
+# \PN's house
+BattleBack=IndoorB
+MapPosition=0,13,12
+HealingSpot=2,8,8
+#-------------------------------
+[004]
+# Pokémon Lab
+MapPosition=0,13,12
+ShowArea=false
+#-------------------------------
+[005]
+# Route 1
+MapPosition=0,13,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[006]
+# Kurt's house
+MapPosition=0,13,11
+#-------------------------------
+[007]
+# Cedolan City
+MapSize=2,11
+MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[008]
+# Daisy's house
+MapPosition=0,13,12
+#-------------------------------
+[009]
+# Cedolan City Poké Center
+MapPosition=0,14,10
+HealingSpot=8,17,11
+#-------------------------------
+[010]
+# Cedolan Gym
+BattleBack=IndoorB
+MapPosition=0,13,10
+#-------------------------------
+[011]
+# Pokémon Institute
+MapPosition=0,14,10
+#-------------------------------
+[012]
+# Cedolan City Condo
+MapPosition=0,14,10
+#-------------------------------
+[013]
+# Game Corner
+MapPosition=0,26,13
+#-------------------------------
+[014]
+# Aquafina Dept. 1F
+MapPosition=0,27,13
+#-------------------------------
+[015]
+# Aquafina Dept. 2F
+MapPosition=0,27,13
+#-------------------------------
+[016]
+# Aquafina Dept. 3F
+MapPosition=0,27,13
+#-------------------------------
+[017]
+# Aquafina Dept. 4F
+MapPosition=0,27,13
+#-------------------------------
+[018]
+# Aquafina Dept. 5F
+MapPosition=0,27,13
+#-------------------------------
+[019]
+# Aquafina Dept. Rooftop
+MapPosition=0,27,13
+#-------------------------------
+[020]
+# Aquafina Dept. Elevator
+MapPosition=0,27,13
+#-------------------------------
+[021]
+# Route 2
+MapSize=1,11
+Weather=Rain,50
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[023]
+# Lerucean Town
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[024]
+# Lerucean Town Poké Center
+MapPosition=0,15,8
+HealingSpot=23,11,15
+#-------------------------------
+[025]
+# Lerucean Town Mart
+MapPosition=0,15,8
+#-------------------------------
+[026]
+# Pokémon Fan Club
+MapPosition=0,15,8
+#-------------------------------
+[027]
+# Pokémon Day Care
+MapPosition=0,15,8
+#-------------------------------
+[028]
+# Natural Park
+BattleBack=Forest
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[029]
+# Natural Park Entrance
+Bicycle=true
+MapPosition=0,16,8
+#-------------------------------
+[030]
+# Natural Park Pavillion
+MapPosition=0,16,8
+#-------------------------------
+[031]
+# Route 3
+MapSize=2,1101
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[033]
+# Raydon Town
+Bicycle=true
+MapPosition=0,17,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[034]
+# Ice Cave
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,15,6
+#-------------------------------
+[035]
+# Ingido Plateau
+MapPosition=0,13,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[036]
+# Pokémon League
+MapPosition=0,13,6
+HealingSpot=35,17,7
+#-------------------------------
+[037]
+# Pokémon League
+BattleBack=EliteA
+MapPosition=0,13,6
+#-------------------------------
+[038]
+# Hall of Fame
+MapPosition=0,13,6
+#-------------------------------
+[039]
+# Route 4
+MapSize=2,11
+MapPosition=0,11,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[040]
+# Route 4
+MapPosition=0,11,6
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[041]
+# Route 5
+MapSize=1,111
+MapPosition=0,11,7
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[043]
+# The Lab (Post-Climax)
+MapPosition=0,17,5
+#-------------------------------
+[044]
+# Route 6
+MapSize=2,11
+MapPosition=0,11,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[045]
+# Route 6
+MapPosition=0,11,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[046]
+# Cycling Road gate
+Bicycle=true
+MapPosition=0,12,6
+#-------------------------------
+[047]
+# Route 7
+MapSize=2,11
+BattleBack=Mountain
+Weather=Rain,0
+MapPosition=0,15,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[048]
+# Rochester Trail
+MapSize=1,1
+BattleBack=Field
+Bicycle=true
+MapPosition=0,17,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[049]
+# Rock Cave
+Bicycle=true
+MapPosition=0,16,10
+#-------------------------------
+[050]
+# Rock Cave
+BattleBack=CaveDark
+Bicycle=true
+MapPosition=0,16,10
+DarkMap=true
+#-------------------------------
+[051]
+# Dungeon
+Bicycle=true
+Dungeon=true
+MapPosition=0,16,10
+#-------------------------------
+[052]
+# Battle Frontier
+MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[053]
+# Battle Frontier Poké Center
+MapPosition=0,17,10
+HealingSpot=52,17,14
+#-------------------------------
+[054]
+# Battle Frontier Mart
+MapPosition=0,17,10
+#-------------------------------
+[055]
+# Battle Tower
+MapPosition=0,17,10
+HealingSpot=52,30,10
+#-------------------------------
+[056]
+# Battle Tower arena
+BattleBack=EliteA
+MapPosition=0,17,10
+#-------------------------------
+[057]
+# Stadium Cup lobby
+MapPosition=0,17,10
+#-------------------------------
+[058]
+# Battle Palace
+MapPosition=0,17,10
+#-------------------------------
+[059]
+# Battle Palace arena
+BattleBack=EliteD
+MapPosition=0,17,10
+#-------------------------------
+[060]
+# Battle Arena
+MapPosition=0,17,10
+#-------------------------------
+[061]
+# Battle Arena arena
+BattleBack=EliteB
+MapPosition=0,17,10
+#-------------------------------
+[062]
+# Battle Factory
+MapPosition=0,17,10
+#-------------------------------
+[063]
+# Battle Factory intro corridor
+MapPosition=0,17,10
+#-------------------------------
+[064]
+# Battle Factory arena
+BattleBack=EliteC
+MapPosition=0,17,10
+#-------------------------------
+[065]
+# Battle Factory corridor
+MapPosition=0,17,10
+#-------------------------------
+[066]
+# Safari Zone
+MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[067]
+# Safari Zone gate
+MapPosition=0,12,12
+#-------------------------------
+[068]
+# Safari Zone
+BattleBack=Forest
+MapPosition=0,12,12
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[069]
+# Route 8
+DiveMap=70
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[070]
+# Underwater
+MapPosition=0,13,13
+#-------------------------------
+[071]
+# Harbour
+MapPosition=0,13,13
+#-------------------------------
+[072]
+# Surge Island
+BattleBack=XYUrban
+Weather=HeavyRain,100
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[073]
+# Faraday Island
+MapPosition=0,22,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[074]
+# Cycling Road gate
+Bicycle=true
+MapPosition=0,12,10
+#-------------------------------
+[075]
+# old battle island
+MapPosition=1,13,16
+Outdoor=true
+#-------------------------------
+[076]
+# Rochester Trail
+MapSize=2,11
+BattleBack=Field
+Bicycle=true
+MapPosition=0,15,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[077]
+# Snalaska Village
+MapPosition=0,4,5
+#-------------------------------
+[078]
+# old ignore
+BattleBack=IndoorC
+MapPosition=0,15,6
+DarkMap=true
+ShowArea=true
+#-------------------------------
+[079]
+# old ignore
+BattleBack=IndoorC
+MapPosition=0,15,6
+#-------------------------------
+[080]
+# Saffron City
+DarkMap=false
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[081]
+# old ignore
+Outdoor=true
+#-------------------------------
+[082]
+# old ignore
+BattleBack=IndoorC
+MapPosition=0,15,6
+#-------------------------------
+[083]
+# Torayra Road
+BattleBack=Mountain
+Bicycle=true
+MapPosition=0,6,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[084]
+# Edgston Town
+MapSize=1,
+Bicycle=true
+MapPosition=0,15,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[085]
+# Evergreen Hill
+Weather=Storm,100
+MapPosition=0,26,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[086]
+# The Lab (Empty)
+MapPosition=0,17,5
+#-------------------------------
+[087]
+# The Lab (Got Ore)
+MapPosition=0,17,5
+#-------------------------------
+[088]
+# Edgston Woods
+MapSize=1,1
+BattleBack=Forest
+MapPosition=0,15,10
+DarkMap=false
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[089]
+# Edgston Gym
+BattleBack=GreenArena
+MapPosition=0,15,9
+#-------------------------------
+[090]
+# Aydus Road
+MapSize=1,111
+SnapEdges=false
+BattleBack=Field
+Bicycle=true
+MapPosition=0,14,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[091]
+# Edgston Center
+MapPosition=0,15,9
+HealingSpot=84,8,16
+#-------------------------------
+[092]
+# Marewn Town
+BattleBack=Mountain
+Bicycle=true
+MapPosition=0,14,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[093]
+# Aydus Cave
+MapSize=1,1
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,14,10
+#-------------------------------
+[094]
+# Briseano Town
+MapSize=1,1
+Bicycle=true
+MapPosition=0,7,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[095]
+# Briseano Harbour
+MapPosition=0,7,15
+#-------------------------------
+[096]
+# Raydon Center
+MapPosition=0,17,5
+HealingSpot=33,29,13
+#-------------------------------
+[098]
+# Terride Cave
+MapSize=2,11
+MapPosition=0,12,12
+ShowArea=true
+#-------------------------------
+[099]
+# Marewn Gym
+BattleBack=BrownArena
+MapPosition=0,14,12
+Outdoor=false
+#-------------------------------
+[100]
+# Marewn Center
+MapPosition=0,14,12
+HealingSpot=92,25,20
+#-------------------------------
+[101]
+# Tress Road
+MapSize=2,11
+BattleBack=Field
+Bicycle=true
+MapPosition=0,16,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[103]
+# Antiqua Pass
+MapSize=1,1111
+Bicycle=true
+MapPosition=0,26,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[104]
+# Antiqua Desert
+MapSize=1,11
+BattleBack=FutureDesert
+Weather=Sandstorm,100
+Bicycle=true
+MapPosition=0,24,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[105]
+# Rederyl City
+MapSize=1,11
+Bicycle=true
+MapPosition=0,24,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[106]
+# Kwao Road
+MapSize=1,1
+BattleBack=Field
+Bicycle=true
+MapPosition=0,12,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[107]
+# Crater (unused rn)
+MapPosition=0,17,17
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[108]
+# Zeph Harbour
+MapPosition=0,12,14
+#-------------------------------
+[109]
+# Kwao Road
+MapSize=1,1
+BattleBack=Beach
+Bicycle=true
+MapPosition=0,11,13
+Outdoor=true
+#-------------------------------
+[110]
+# Rederyl Mine
+SnapEdges=true
+BattleBack=Mine
+Bicycle=false
+MapPosition=0,25,7
+DarkMap=false
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[111]
+# North's Lab
+MapPosition=0,12,14
+#-------------------------------
+[112]
+# Torayra Road
+MapSize=1,11
+BattleBack=Mountain
+Bicycle=true
+MapPosition=0,7,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[113]
+# Snalaska Market
+MapPosition=0,4,5
+#-------------------------------
+[114]
+# Zeph Center
+MapPosition=0,14,12
+HealingSpot=126,34,7
+#-------------------------------
+[115]
+# Pokémon Day Care
+MapPosition=0,14,12
+#-------------------------------
+[116]
+# Verede Left Entrance
+MapPosition=0,18,9
+#-------------------------------
+[120]
+# Lighthouse 1F
+BattleBack=LH
+MapPosition=0,11,13
+ShowArea=false
+#-------------------------------
+[121]
+# Lighthouse 2F
+BattleBack=LH
+MapPosition=0,11,13
+#-------------------------------
+[122]
+# Lighthouse 3F
+BattleBack=LH
+MapPosition=0,11,13
+#-------------------------------
+[123]
+# Lighthouse 4F
+BattleBack=LH
+MapPosition=0,11,13
+#-------------------------------
+[124]
+# Lighthouse 5F
+BattleBack=LH
+MapPosition=0,11,13
+#-------------------------------
+[125]
+# Zeph Gym
+BattleBack=YellowArena
+MapPosition=0,12,14
+Outdoor=false
+#-------------------------------
+[126]
+# Zeph Town
+MapSize=1,1
+Bicycle=true
+MapPosition=0,12,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[130]
+# Desert South Gate
+MapPosition=0,26,7
+#-------------------------------
+[133]
+# Ciucosa Crater
+Weather=HeavyRain,50
+MapPosition=0,17,17
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[134]
+# Power Plant Outside
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[135]
+# Torayra Road
+BattleBack=Mountain
+Bicycle=true
+MapPosition=0,5,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[136]
+# Platoh City
+MapSize=1,11
+Bicycle=true
+MapPosition=0,5,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[137]
+# Snalaska Hostel
+MapPosition=0,4,5
+HealingSpot=137,5,7
+#-------------------------------
+[138]
+# \PN's House
+MapPosition=0,17,5
+#-------------------------------
+[139]
+# Lacka Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,6,13
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[140]
+# Lacka Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,6,13
+Outdoor=false
+#-------------------------------
+[141]
+# Lacka Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,6,13
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[142]
+# Lacka Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,6,13
+Outdoor=false
+#-------------------------------
+[144]
+# Platoh Museum
+MapPosition=0,5,11
+Outdoor=false
+#-------------------------------
+[145]
+# Museum Basement
+BattleBack=MUS
+MapPosition=0,5,11
+Outdoor=false
+#-------------------------------
+[146]
+# Briseano Center
+MapPosition=0,7,15
+HealingSpot=94,16,15
+#-------------------------------
+[148]
+# Marewn Mart
+MapPosition=0,14,12
+#-------------------------------
+[149]
+# Platoh Center
+MapPosition=0,5,11
+HealingSpot=136,40,17
+#-------------------------------
+[150]
+# Platoh Center UPSTAIRS
+MapPosition=0,5,11
+#-------------------------------
+[151]
+# Zeph Town
+MapPosition=0,12,14
+#-------------------------------
+[152]
+# Zeph Town
+MapPosition=0,12,14
+#-------------------------------
+[153]
+# Terride Cave Lower
+MapSize=2,11
+MapPosition=0,12,12
+#-------------------------------
+[154]
+# Platoh Gym
+BattleBack=BlueArena
+MapPosition=0,5,12
+#-------------------------------
+[156]
+# BIG FILA
+Outdoor=true
+#-------------------------------
+[157]
+# Zeph Town
+Outdoor=true
+#-------------------------------
+[159]
+# Kwao Road
+Outdoor=true
+#-------------------------------
+[160]
+# Fish Guru's Brother's House
+MapPosition=0,7,15
+#-------------------------------
+[161]
+# Haunted Mansion
+Bicycle=false
+MapPosition=0,4,5
+#-------------------------------
+[162]
+# Museum Basement
+MapPosition=0,5,11
+Outdoor=false
+#-------------------------------
+[163]
+# Briseano Town
+MapPosition=0,7,15
+#-------------------------------
+[165]
+# Platoh Labs
+MapPosition=0,5,11
+#-------------------------------
+[166]
+# Brisé Ocean
+MapSize=2,11
+DiveMap=361
+MapPosition=0,8,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[167]
+# Bike Shop
+MapPosition=0,5,12
+#-------------------------------
+[168]
+# Platoh Mart
+MapPosition=0,5,12
+#-------------------------------
+[169]
+# Terride Cave
+MapSize=2,11
+Bicycle=true
+MapPosition=0,12,12
+#-------------------------------
+[170]
+# Underground Path
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,12,12
+#-------------------------------
+[171]
+# Rochester Trail
+MapSize=1,11
+BattleBack=Field
+Bicycle=true
+MapPosition=0,15,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[172]
+# Rochester Cave
+MapSize=1,1
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,15,7
+#-------------------------------
+[173]
+# Verede Swamp
+BattleBack=Swamp2
+Weather=Rain,20
+Bicycle=false
+MapPosition=0,18,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[174]
+# Yellowstone City
+MapSize=1,11
+Bicycle=true
+MapPosition=0,20,9
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[175]
+# Verede Right Entrance
+MapPosition=0,19,9
+#-------------------------------
+[176]
+# Awbah Cliffs
+MapSize=3,111111100
+BattleBack=Waterfall
+Weather=Rain,10
+Bicycle=true
+MapPosition=0,5,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[177]
+# Awbah Cliffs
+MapPosition=0,5,10
+#-------------------------------
+[178]
+# Yellowstone Center
+MapPosition=0,20,9
+HealingSpot=174,23,22
+#-------------------------------
+[179]
+# Yellowstone Gym
+BattleBack=PurpleArena
+MapPosition=0,20,8
+Outdoor=false
+#-------------------------------
+[180]
+# Art Gallery
+MapPosition=0,20,8
+#-------------------------------
+[181]
+# Killamont Path
+MapSize=1,111
+Weather=Rain,30
+Bicycle=true
+MapPosition=0,20,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[182]
+# Power Plant
+BattleBack=Factory
+MapPosition=0,21,5
+Outdoor=false
+#-------------------------------
+[183]
+# Yellowstone Bank
+MapPosition=0,20,9
+#-------------------------------
+[184]
+# Looker's House
+MapPosition=0,20,9
+#-------------------------------
+[185]
+# Yellowstone City
+MapPosition=0,20,9
+#-------------------------------
+[186]
+# Yellowstone Mart
+MapPosition=0,20,9
+#-------------------------------
+[187]
+# Yellowstone City
+MapPosition=0,20,9
+#-------------------------------
+[189]
+# Zeph Ocean
+MapSize=3,111
+Bicycle=false
+MapPosition=0,10,15
+Outdoor=true
+BattleBack=Mountain
+ShowArea=true
+#-------------------------------
+[190]
+# Kolana Ranch
+MapSize=1,1
+Bicycle=true
+MapPosition=0,20,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[192]
+# Santos Island
+Weather=Snow,100
+MapPosition=0,9,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[193]
+# Erodon Trail
+MapSize=1,1
+Bicycle=true
+MapPosition=0,23,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[194]
+# Destra Path
+MapSize=3,110010011
+BattleBack=Mountain
+Bicycle=true
+MapPosition=0,15,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[195]
+# Kolana Ranch
+MapPosition=0,20,4
+#-------------------------------
+[196]
+# Kolana Center
+MapPosition=0,20,4
+HealingSpot=190,33,11
+#-------------------------------
+[197]
+# Kolana Ranch
+MapPosition=0,20,4
+#-------------------------------
+[198]
+# Desert North Gate
+MapPosition=0,26,6
+#-------------------------------
+[199]
+# Laquana Trail
+MapSize=2,11
+Bicycle=true
+MapPosition=0,17,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[200]
+# Rederyl Gym
+BattleBack=RedArena
+Weather=Sunny,100
+Bicycle=false
+MapPosition=0,24,5
+Outdoor=false
+#-------------------------------
+[201]
+# Ciucosa Pass
+MapSize=5,0000110000
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,18,12
+ShowArea=true
+#-------------------------------
+[202]
+# Ciucosa City
+MapSize=2,11
+Bicycle=true
+MapPosition=0,18,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[203]
+# Raydon Town
+MapPosition=0,17,5
+#-------------------------------
+[204]
+# Kolana Path
+MapSize=1,1
+Bicycle=true
+MapPosition=0,19,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[205]
+# Herb Shop
+MapPosition=0,19,4
+#-------------------------------
+[206]
+# Kolana Ranch
+MapPosition=0,20,4
+#-------------------------------
+[207]
+# Flower Shop
+MapPosition=0,17,4
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[208]
+# Kolana Falls
+MapSize=1,1
+Bicycle=true
+MapPosition=0,20,3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[209]
+# Ciucosa Pass
+MapSize=5,0000110000
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,18,12
+#-------------------------------
+[210]
+# Unknown Island
+MapPosition=0,11,17
+Outdoor=true
+#-------------------------------
+[211]
+# Ciucosa Pass
+BattleBack=Cave
+Bicycle=true
+#-------------------------------
+[212]
+# Ciucosa Pass
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,18,13
+#-------------------------------
+[213]
+# Ciucosa Pass
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,18,13
+#-------------------------------
+[214]
+# Ciucosa Pass
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,18,13
+#-------------------------------
+[215]
+# Temporal Ruins
+BattleBack=Cave
+Bicycle=false
+MapPosition=0,13,3
+#-------------------------------
+[216]
+# Ciucosa Pass
+MapSize=5,0000110000
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,18,12
+#-------------------------------
+[217]
+# \PN's House
+MapPosition=0,17,5
+#-------------------------------
+[218]
+# Ciucosa Center
+MapPosition=0,18,14
+HealingSpot=202,26,70
+#-------------------------------
+[220]
+# Ciucosa Gym
+BattleBack=Sky
+MapPosition=0,19,14
+Outdoor=false
+#-------------------------------
+[221]
+# Move Relearner's House
+MapPosition=0,19,14
+Outdoor=false
+#-------------------------------
+[222]
+# Ciucosa City
+MapPosition=0,18,14
+Outdoor=false
+#-------------------------------
+[223]
+# Woodcutter's House
+MapPosition=0,17,13
+#-------------------------------
+[224]
+# Ciucosa Mart
+MapPosition=0,19,14
+Outdoor=false
+#-------------------------------
+[225]
+# Ciucosa City
+MapPosition=0,18,14
+Outdoor=false
+#-------------------------------
+[226]
+# Ciucosa Bay
+MapSize=4,11111111
+DiveMap=364
+BattleBack=Beach
+MapPosition=0,16,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[227]
+# Erodon Town
+Bicycle=true
+MapPosition=0,23,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[228]
+# Lookers House
+MapPosition=0,20,9
+#-------------------------------
+[229]
+# Mt. Zerus Peak
+BattleBack=ZERUS
+Weather=Blizzard,100
+MapPosition=0,5,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[230]
+# Snalaska Village
+Weather=Snow,100
+MapPosition=0,4,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[231]
+# Erodon Town
+MapPosition=0,23,10
+#-------------------------------
+[232]
+# Erodon Town
+MapPosition=0,23,10
+#-------------------------------
+[233]
+# Erodon Library
+MapPosition=0,23,10
+#-------------------------------
+[234]
+# Erodon Library
+MapPosition=0,23,10
+#-------------------------------
+[235]
+# Erodon Mart
+MapPosition=0,23,10
+#-------------------------------
+[236]
+# Erodon Center
+MapPosition=0,23,10
+HealingSpot=227,25,17
+#-------------------------------
+[238]
+# Erodon Gym
+BattleBack=OrangeArena
+MapPosition=0,23,10
+Outdoor=false
+#-------------------------------
+[239]
+# Unknown City
+BattleBack=Sky
+ShowArea=true
+#-------------------------------
+[240]
+# Zeph Labyrinth
+MapPosition=0,11,15
+ShowArea=true
+#-------------------------------
+[241]
+# Catacombs
+BattleBack=IndoorBlack
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[242]
+# xf
+BattleBack=PR
+MapPosition=0,11,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[243]
+# Unknown City
+HealingSpot=243,6,8
+#-------------------------------
+[244]
+# Sky Temple 1F
+ShowArea=true
+#-------------------------------
+[248]
+# The Lab (The Return)
+MapPosition=0,17,5
+#-------------------------------
+[249]
+# Training Facility
+MapPosition=0,19,14
+Outdoor=false
+#-------------------------------
+[250]
+# Haunted Mansion
+BattleBack=HM
+MapPosition=0,4,5
+#-------------------------------
+[251]
+# Haunted Mansion
+MapPosition=0,4,5
+#-------------------------------
+[252]
+# Haunted Mansion
+MapPosition=0,4,5
+#-------------------------------
+[253]
+# Sandstone Path
+MapSize=2,11
+BattleBack=Field
+Bicycle=true
+MapPosition=0,24,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[259]
+# Route 6
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[261]
+# Rederyl Gym
+BattleBack=Volcano2
+Bicycle=false
+MapPosition=0,26,4
+Outdoor=false
+#-------------------------------
+[262]
+# Evergreen Cave
+MapSize=1,1
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,26,9
+ShowArea=true
+#-------------------------------
+[263]
+# Evergreen Cave
+MapSize=1,1
+Bicycle=true
+MapPosition=0,6,9
+ShowArea=true
+#-------------------------------
+[265]
+# Marewn Town
+MapPosition=0,14,12
+#-------------------------------
+[266]
+# Marewn Town
+MapPosition=0,14,12
+#-------------------------------
+[267]
+# SZ Erodon Hideout
+MapPosition=0,24,11
+#-------------------------------
+[268]
+# Rederyl City
+MapPosition=0,24,6
+#-------------------------------
+[269]
+# Rederyl City
+MapPosition=0,24,6
+#-------------------------------
+[270]
+# Rederyl City
+MapPosition=0,24,6
+#-------------------------------
+[271]
+# Rederyl City
+MapPosition=0,24,6
+#-------------------------------
+[272]
+# Rederyl Center
+MapPosition=0,24,6
+HealingSpot=105,20,39
+#-------------------------------
+[273]
+# Rederyl Mart
+MapPosition=0,24,5
+#-------------------------------
+[276]
+# Garden Maze
+MapPosition=0,17,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[277]
+# Garden Maze
+Weather=Storm,100
+MapPosition=0,17,4
+Outdoor=true
+WildBattleBGM=Pokemon X and Pokemon Y - Legendary Pokemon Battle Music (Fanmade).mp3
+ShowArea=true
+#-------------------------------
+[287]
+# Eversnow Trail
+MapSize=1,11
+BattleBack=Snow2
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,5,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[288]
+# Hidden Base
+MapSize=1,1
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,4,3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[289]
+# Hidden Base Shed
+MapPosition=0,4,3
+#-------------------------------
+[290]
+# Hidden Base Lodge
+MapPosition=0,4,3
+#-------------------------------
+[291]
+# SZ Base 1F
+MapPosition=0,4,2
+#-------------------------------
+[292]
+# SZ Base B1F
+MapPosition=0,4,2
+#-------------------------------
+[293]
+# SZ Base 2F
+MapPosition=0,4,2
+#-------------------------------
+[294]
+# SZ Base 3F
+MapPosition=0,4,2
+#-------------------------------
+[295]
+# Mt. Zerus
+BattleBack=Cave
+MapPosition=0,4,2
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[296]
+# Mt. Zerus
+BattleBack=Cave
+MapPosition=0,4,2
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[297]
+# Eversnow Trail
+MapSize=1,1
+BattleBack=Snow2
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,5,3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[298]
+# Mt. Zerus
+MapSize=1,1
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,5,2
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[299]
+# Lacka Cave
+MapSize=1,1
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,2,13
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[300]
+# Lacka Cave
+MapSize=1,1
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,2,13
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[301]
+# Asteras Path
+MapSize=1,11
+BattleBack=Field
+Weather=Rain,10
+Bicycle=true
+MapPosition=0,2,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[303]
+# Mt. Zerus Peak
+MapSize=1,1
+BattleBack=ZERUS
+Weather=Blizzard,100
+MapPosition=0,5,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[304]
+# Castle Armira
+MapSize=1,1
+Bicycle=true
+MapPosition=0,15,1
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[305]
+# Lux Strait
+MapSize=4,10001111
+Weather=Rain,20
+Bicycle=true
+MapPosition=0,2,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[306]
+# Lux Strait
+MapSize=2,0111
+DiveMap=387
+Weather=Rain,20
+Bicycle=true
+MapPosition=0,6,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[307]
+# Mt. Zerus
+MapSize=3,111
+BattleBack=Snow2
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,6,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[308]
+# Mt. Zerus
+MapSize=1,1
+BattleBack=IceCaves
+Bicycle=true
+MapPosition=0,7,2
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[309]
+# Mt. Zerus
+MapSize=1,1
+BattleBack=IceCaves
+Bicycle=true
+MapPosition=0,7,2
+DarkMap=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[310]
+# Velexia Gulf
+DiveMap=362
+MapPosition=0,17,17
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[311]
+# Temporal Ruins
+BattleBack=Cave
+Bicycle=false
+MapPosition=0,13,3
+#-------------------------------
+[312]
+# Castle Armira
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[313]
+# Asteras Tower
+MapPosition=0,3,12
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[314]
+# Battle Island
+MapPosition=1,14,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[315]
+# Battle Pyramid
+MapPosition=1,13,16
+Outdoor=false
+#-------------------------------
+[316]
+# Battle Pyramid
+Dungeon=true
+#-------------------------------
+[317]
+# Battle Pyramid
+Dungeon=true
+#-------------------------------
+[318]
+# Battle Pyramid
+Outdoor=false
+#-------------------------------
+[319]
+# Battle Pyramid Summit
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[320]
+# Battle Hall
+MapPosition=1,13,16
+Outdoor=false
+#-------------------------------
+[321]
+# Battle Island House
+MapPosition=1,13,16
+Outdoor=false
+#-------------------------------
+[322]
+# Iriscent Gardens
+Bicycle=true
+MapPosition=0,15,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[323]
+# Aquafina Gym
+BattleBack=PinkArena
+MapPosition=0,27,12
+Outdoor=false
+#-------------------------------
+[324]
+# Castle Armira
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[325]
+# Iriscent Park
+BattleBack=Darchlight
+Bicycle=true
+MapPosition=0,14,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[326]
+# Iriscent Park
+MapSize=1,111
+BattleBack=Forest
+Bicycle=true
+MapPosition=0,15,3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[327]
+# Guardian's Temple
+BattleBack=CaveDark
+MapPosition=0,15,4
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[328]
+# Iriscent Park North Gate
+MapPosition=0,15,3
+Outdoor=false
+#-------------------------------
+[329]
+# Iriscent Park South Gate
+MapPosition=0,15,5
+Outdoor=false
+#-------------------------------
+[330]
+# Torarya Woods
+BattleBack=Forest
+Bicycle=true
+MapPosition=0,7,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[331]
+# Guardian's Temple
+BattleBack=CaveDark
+MapPosition=0,7,13
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[332]
+# Kolana Falls
+MapPosition=0,15,2
+#-------------------------------
+[333]
+# Iriscent Gardens
+MapPosition=0,15,2
+#-------------------------------
+[334]
+# Aquafina Gate
+MapPosition=0,15,2
+#-------------------------------
+[335]
+# Berry Master's House
+MapPosition=0,15,2
+HealingSpot=335,7,4
+#-------------------------------
+[336]
+# Antiqua Bush
+Bicycle=true
+MapPosition=0,25,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[338]
+# Armiran Isles
+Dungeon=true
+#-------------------------------
+[339]
+# Aquafina City
+Bicycle=true
+MapPosition=0,26,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[340]
+# Aquafina City
+Bicycle=true
+MapPosition=0,26,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[341]
+# Aquafina City
+MapSize=1,11
+Bicycle=true
+MapPosition=0,27,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[342]
+# Aquafina Center
+MapPosition=0,26,12
+HealingSpot=339,39,22
+#-------------------------------
+[343]
+# Castle Armira
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[344]
+# Castle Armira
+BattleBack=IndoorBlack
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[345]
+# Castle Armira
+BattleBack=IndoorBlack
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[347]
+# Antiqua Ruins
+BattleBack=PR
+Bicycle=false
+MapPosition=0,25,8
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[348]
+# Antiqua Ruins
+BattleBack=PR
+Bicycle=false
+MapPosition=0,25,8
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[349]
+# Antiqua Ruins
+BattleBack=PR
+Bicycle=false
+MapPosition=0,25,8
+DarkMap=true
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[350]
+# Antiqua Ruins Chamber
+BattleBack=PR
+Bicycle=false
+MapPosition=0,25,8
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[351]
+# Aquafina City
+MapPosition=0,26,12
+#-------------------------------
+[352]
+# Aquafina Library
+MapPosition=0,26,12
+#-------------------------------
+[353]
+# Aquafina Library
+MapPosition=0,26,12
+#-------------------------------
+[354]
+# Aquafina Research
+MapPosition=0,27,12
+#-------------------------------
+[355]
+# Pokemon Fan Club
+MapPosition=0,26,12
+#-------------------------------
+[356]
+# Aquafina Harbour
+MapPosition=0,27,12
+#-------------------------------
+[357]
+# Aquafina Café
+MapPosition=0,27,12
+#-------------------------------
+[358]
+# Aquafina City
+MapPosition=0,27,13
+#-------------------------------
+[359]
+# Aquafina City
+MapPosition=0,26,12
+#-------------------------------
+[360]
+# Aquafina City
+MapPosition=0,27,12
+#-------------------------------
+[361]
+# Underwater
+MapSize=2,11
+BattleBack=Underwater
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[362]
+# Underwater
+BattleBack=Underwater
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[363]
+# Zeph Labyrinth
+BattleBack=PR
+MapPosition=0,11,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[364]
+# Underwater
+MapSize=4,11111111
+BattleBack=Underwater
+MapPosition=0,16,15
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[365]
+# Zeph Labyrinth
+BattleBack=PR
+MapPosition=0,11,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[366]
+# Zeph Labyrinth
+DiveMap=367
+BattleBack=PR
+MapPosition=0,11,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[367]
+# Zeph Labyrinth
+BattleBack=Underwater
+MapPosition=0,11,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[368]
+# Zeph Labyrinth
+DiveMap=369
+BattleBack=PR
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[369]
+# Zeph Labyrinth
+BattleBack=Underwater
+MapPosition=0,11,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[371]
+# Ciucosa Pass
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,18,13
+#-------------------------------
+[372]
+# The Pokemon League
+MapPosition=0,17,17
+Outdoor=false
+HealingSpot=310,23,26
+ShowArea=false
+#-------------------------------
+[373]
+# The Pokemon League
+BattleBack=EliteA
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[374]
+# The Pokemon League
+BattleBack=EliteB
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[375]
+# The Pokemon League
+BattleBack=EliteC
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[376]
+# The Pokemon League
+BattleBack=EliteD
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[377]
+# The Pokemon League
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[378]
+# The Pokemon League
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[379]
+# The Pokemon League
+BattleBack=Champion
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[380]
+# Underwater
+BattleBack=Underwater
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[381]
+# Hall of Fame
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[382]
+# Victory Road
+Bicycle=true
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[383]
+# Victory Road
+Bicycle=true
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[384]
+# Victory Road
+Bicycle=true
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[385]
+# Victory Road
+Bicycle=true
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[386]
+# Terride Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,12,12
+Outdoor=false
+#-------------------------------
+[387]
+# Underwater
+BattleBack=Underwater
+MapPosition=0,7,16
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[388]
+# Sealed Chamber
+DiveMap=389
+Bicycle=true
+MapPosition=0,7,16
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[389]
+# Underwater
+BattleBack=Underwater
+MapPosition=0,7,16
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[390]
+# Iriscent Coast Gate
+Bicycle=true
+MapPosition=0,14,2
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[391]
+# Iriscent Coast
+Bicycle=true
+MapPosition=0,14,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[392]
+# Iriscent Coast
+MapSize=3,111
+Bicycle=true
+MapPosition=0,11,2
+Outdoor=true
+#-------------------------------
+[393]
+# Temporal Cavern
+Bicycle=false
+MapPosition=0,12,2
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[394]
+# Castle Armira
+BattleBack=ArmiraZap
+Weather=Storm,100
+MapPosition=0,15,1
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[395]
+# Castle Armira
+BattleBack=IndoorBlack
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[396]
+# Castle Armira
+BattleBack=IndoorBlack
+MapPosition=0,15,1
+Outdoor=true
+#-------------------------------
+[397]
+# Castle Armira
+BattleBack=Champion
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[398]
+# Blossom Hill
+MapPosition=0,20,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[399]
+# Blossom Hill
+MapPosition=0,20,2
+Outdoor=false
+#-------------------------------
+[400]
+# Snowcast Island
+BattleBack=SNOW
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[401]
+# Snowcast Island
+BattleBack=SNOW
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[403]
+# Snowcast Chambers
+BattleBack=PR
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[404]
+# Strange Tower
+BattleBack=Swamp2
+Bicycle=false
+MapPosition=0,19,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[405]
+# Strange Tower
+BattleBack=MUS
+Bicycle=false
+MapPosition=0,19,8
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[406]
+# Strange Tower
+BattleBack=MUS
+Bicycle=false
+MapPosition=0,19,8
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[407]
+# Strange Tower
+BattleBack=MUS
+Bicycle=false
+MapPosition=0,19,8
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[408]
+# Strange Tower
+BattleBack=MUS
+Bicycle=false
+MapPosition=0,19,8
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[410]
+# Beachside Cavern
+MapSize=1,1
+Bicycle=true
+MapPosition=0,11,13
+#-------------------------------
+[411]
+# Lux Cavern
+MapSize=1,1
+MapPosition=0,4,17
+#-------------------------------
+[412]
+# Archie's Tavern
+MapPosition=0,28,11
+#-------------------------------
+[413]
+# Underground Cavern
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,12,12
+#-------------------------------
+[414]
+# Cable Car 
+Bicycle=false
+MapPosition=0,4,6
+ShowArea=false
+#-------------------------------
+[415]
+# Cable Car 
+Bicycle=false
+MapPosition=0,8,9
+ShowArea=false
+#-------------------------------
+[416]
+# The Lab (with Looker)
+MapPosition=0,17,5
+#-------------------------------
+[417]
+# Lacka Cave
+MapSize=1,1
+BattleBack=XYVolcano
+Bicycle=true
+MapPosition=0,2,13
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[419]
+# Blossom Hill Cave
+Bicycle=false
+MapPosition=0,20,2
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[420]
+# Blossom Hill Cave
+Bicycle=false
+MapPosition=0,20,2
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[421]
+# Blossom Hill Cave
+Bicycle=false
+MapPosition=0,20,2
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[422]
+# Blossom Hill Peak
+Bicycle=false
+MapPosition=0,20,2
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[423]
+# Iriscent Coast
+Bicycle=true
+MapPosition=0,13,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[424]
+# Mystic Island
+Bicycle=false
+MapPosition=0,13,3
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[425]
+# Spatial Ruins
+MapPosition=0,26,9
+Outdoor=false
+ShowArea=true
+BattleBack=Cave
+#-------------------------------
+[426]
+# Spatial Ruins
+MapPosition=0,26,9
+Outdoor=false
+ShowArea=true
+BattleBack=Cave
+#-------------------------------
+[429]
+# Abandoned Ship
+DiveMap=439
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[430]
+# Abandoned Ship
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[431]
+# Abandoned Ship
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[432]
+# Abandoned Ship
+DiveMap=436
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[433]
+# Abandoned Ship
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[434]
+# Abandoned Ship
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[435]
+# Abandoned Ship
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[436]
+# Underwater Ship
+MapSize=1,1
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[437]
+# Underwater Ship
+MapSize=1,1
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[438]
+# Abandoned Ship
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[439]
+# Underwater Ship
+MapSize=1,1
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[440]
+# void uw
+DiveMap=437
+#-------------------------------
+[441]
+# S.S. Anne
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[442]
+# S.S. Anne
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[443]
+# S.S. Anne
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[444]
+# S.S. Anne
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[445]
+# S.S. Anne
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[446]
+# S.S. Anne
+BattleBack=Bridge
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[447]
+# Snowcast Chambers
+BattleBack=PR
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[450]
+# Lacka Cavern
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,6,13
+Outdoor=false
+#-------------------------------
+[451]
+# Armira Region
+BattleBack=Underwater
+#-------------------------------
+[452]
+# Armira Region
+BattleBack=XYVolcano
+#-------------------------------
+[453]
+# Armira Region
+BattleBack=Swamp
+#-------------------------------
+[455]
+# Rederyl Mansion
+MapSize=1,1
+BattleBack=Field
+Bicycle=true
+MapPosition=0,24,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[458]
+# Megaris Island Chamber
+MapSize=1,1
+MapPosition=1,5,6
+#-------------------------------
+[460]
+# Snow Zone
+SnapEdges=true
+Weather=Snow,100
+MapPosition=0,17,4
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[461]
+# Restricted Zone
+SnapEdges=true
+Weather=Rain,0
+MapPosition=0,17,4
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[462]
+# Marewn Dojo
+BattleBack=Mountain
+Bicycle=true
+MapPosition=0,14,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[463]
+# Marewn Dojo
+BattleBack=BrownArena
+MapPosition=0,14,13
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[466]
+# Megaris Island
+MapSize=1,1
+Bicycle=true
+MapPosition=1,5,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[468]
+# Megaris Lab
+MapPosition=1,5,7
+Outdoor=false
+#-------------------------------
+[469]
+# Megaris Harbour
+MapPosition=1,5,7
+Outdoor=false
+#-------------------------------
+[470]
+# Megaris Center
+MapPosition=1,5,7
+Outdoor=false
+HealingSpot=466,40,23
+#-------------------------------
+[471]
+# Helius Glacier
+MapSize=1,1
+Weather=Snow,100
+Bicycle=true
+MapPosition=1,14,15
+Outdoor=true
+ShowArea=true
+BattleBack=IceCaves
+#-------------------------------
+[472]
+# Megaris Rainforest
+MapSize=1,1
+Weather=Rain,100
+Bicycle=true
+MapPosition=1,5,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[473]
+# Megaris Tower
+MapSize=1,1
+MapPosition=1,5,6
+#-------------------------------
+[474]
+# Megaris Tower
+MapSize=1,1
+MapPosition=1,5,6
+#-------------------------------
+[475]
+# Megaris Tower Top
+MapSize=1,1
+Bicycle=false
+MapPosition=1,5,6
+Outdoor=true
+#-------------------------------
+[476]
+# Helius Glacier
+MapSize=1,1
+Weather=Blizzard,100
+Bicycle=true
+MapPosition=1,14,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[477]
+# Helius Glacier
+MapSize=1,1
+Weather=Blizzard,100
+Bicycle=true
+MapPosition=1,15,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[478]
+# Lost Chamber
+MapSize=1,1
+MapPosition=1,15,16
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[479]
+# Helius Glacier Cove
+MapSize=1,1
+Bicycle=true
+MapPosition=1,14,16
+Outdoor=false
+ShowArea=true
+BattleBack=Cave
+#-------------------------------
+[480]
+# Helius Research
+MapSize=1,1
+MapPosition=1,14,15
+Outdoor=false
+#-------------------------------
+[481]
+# Helius Harbour
+MapSize=1,1
+MapPosition=1,14,15
+Outdoor=false
+#-------------------------------
+[483]
+# Bukayo Estate
+MapSize=1,1
+Weather=Sunny,10
+Bicycle=true
+MapPosition=1,18,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[484]
+# Bukayo Estate
+MapSize=1,1
+MapPosition=1,18,5
+Outdoor=false
+#-------------------------------
+[485]
+# Bukayo Estate
+MapSize=1,1
+MapPosition=1,18,5
+Outdoor=false
+#-------------------------------
+[486]
+# Bukayo Estate
+MapSize=1,1
+MapPosition=1,18,5
+Outdoor=false
+#-------------------------------
+[487]
+# Ciris Isle
+MapSize=1,1
+Weather=Sunny,10
+Bicycle=true
+MapPosition=1,23,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[488]
+# Ciris Harbour
+MapSize=1,1
+MapPosition=1,23,6
+Outdoor=false
+#-------------------------------
+[489]
+# Ciris Jungle
+MapSize=2,1011
+BattleBack=Swamp2
+Weather=Rain,100
+Bicycle=true
+MapPosition=1,23,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[490]
+# Ciris Center
+MapSize=1,1
+MapPosition=1,23,6
+Outdoor=false
+HealingSpot=487,21,23
+#-------------------------------
+[491]
+# Ciris Ruins
+MapSize=1,1
+MapPosition=1,23,8
+Outdoor=false
+#-------------------------------
+[493]
+# Ciris Ruins
+MapSize=1,1
+MapPosition=1,23,8
+Outdoor=false
+#-------------------------------
+[494]
+# Ciris Volcano
+MapSize=1,1
+BattleBack=XYVolcano
+MapPosition=1,24,9
+Outdoor=false
+#-------------------------------
+[495]
+# Ciris Volcano
+MapSize=1,1
+BattleBack=XYVolcano
+MapPosition=1,24,9
+Outdoor=false
+#-------------------------------
+[496]
+# Ciris Volcano
+MapSize=1,1
+BattleBack=XYVolcano
+MapPosition=1,24,9
+Outdoor=false
+#-------------------------------
+[497]
+# Ciris Volcano Depths
+MapSize=1,1
+BattleBack=XYVolcano
+MapPosition=1,24,9
+Outdoor=false
+#-------------------------------
+[498]
+# Ciris Volcano
+MapSize=1,1
+BattleBack=XYVolcano
+MapPosition=1,24,9
+Outdoor=false
+#-------------------------------
+[499]
+# Ciris Volcano Summit
+MapSize=1,1
+MapPosition=1,24,9
+Outdoor=true
+BattleBack=XYEntei
+#-------------------------------
+[500]
+# Erodon Outskirts
+Bicycle=true
+MapPosition=0,23,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[501]
+# Hidden Grove
+BattleBack=Field
+ShowArea=true
+#-------------------------------
+[502]
+# Distortion World
+BattleBack=Distortion
+ShowArea=true
+#-------------------------------
+[503]
+# Flower Paradise
+BattleBack=Field
+ShowArea=true
+#-------------------------------
+[504]
+# Giant Chasm
+BattleBack=Cave
+ShowArea=true
+#-------------------------------
+[505]
+# Crescent Isle
+BattleBack=Field
+ShowArea=true
+#-------------------------------
+[506]
+# Liberty Island
+ShowArea=true
+#-------------------------------
+[507]
+# Distant Laboratory
+ShowArea=true
+#-------------------------------
+[508]
+# Bell Tower Roof
+BattleBack=Sky
+ShowArea=true
+#-------------------------------
+[509]
+# Navel Depths
+BattleBack=Cave
+ShowArea=true
+#-------------------------------
+[510]
+# Faraway Shrine
+BattleBack=Field
+ShowArea=true
+#-------------------------------
+[511]
+# Abandoned Facility
+BattleBack=IndoorBlack
+ShowArea=true
+#-------------------------------
+[512]
+# Slumber Cavern
+BattleBack=Cave
+ShowArea=true
+#-------------------------------
+[513]
+# Ultra Space
+BattleBack=IndoorBlack
+ShowArea=true
+#-------------------------------
+[514]
+# Terra Cave
+BattleBack=Cave
+ShowArea=true
+#-------------------------------
+[515]
+# Marine Cave
+BattleBack=Cave
+ShowArea=true
+#-------------------------------
+[516]
+# Sky Pillar
+BattleBack=Sky
+ShowArea=true
+#-------------------------------
+[517]
+# Dragonspiral Tower
+BattleBack=Sky
+ShowArea=true
+#-------------------------------
+[519]
+# Asteras Tower Path
+MapSize=3,111
+BattleBack=Field
+Bicycle=true
+MapPosition=0,2,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[520]
+# Asteras Tower Gate
+Bicycle=true
+MapPosition=0,4,12
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[521]
+# Asteras Tower Gate
+Bicycle=true
+MapPosition=0,2,12
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[522]
+# Asteras Tower
+MapPosition=0,3,12
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[523]
+# Armira Cemetery
+BattleBack=IndoorBlack
+MapPosition=0,15,1
+Outdoor=false
+#-------------------------------
+[524]
+# The Trader's Den
+MapPosition=0,26,13
+#-------------------------------
+[525]
+# Floe Sea
+MapSize=1,11
+Weather=Snow,100
+Bicycle=true
+MapPosition=1,14,13
+Outdoor=true
+DiveMap=526
+ShowArea=true
+BattleBack=Water
+#-------------------------------
+[526]
+# Underwater
+# Floe Sea
+MapSize=1,11
+BattleBack=Underwater
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[527]
+# Abandoned Ship
+BattleBack=Bridge
+Bicycle=false
+MapPosition=0,8,15
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[528]
+# Outcast Island
+MapSize=1,1
+Weather=Blizzard,100
+Bicycle=true
+MapPosition=1,14,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[531]
+# Rederyl Mine Outskirts
+Bicycle=true
+MapPosition=0,25,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[533]
+# The Pokemon League
+BattleBack=Champion
+MapPosition=0,17,17
+Outdoor=false
+ShowArea=false
