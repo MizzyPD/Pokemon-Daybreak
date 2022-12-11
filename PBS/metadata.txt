@@ -1097,7 +1097,7 @@ MapPosition=0,18,12
 #-------------------------------
 [210]
 # Unknown Island
-MapPosition=0,11,17
+MapPosition=0,9,15
 Outdoor=true
 #-------------------------------
 [211]
