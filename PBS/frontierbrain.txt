@@ -1,0 +1,7 @@
+[000]
+EndSpeechLose=Astonishing!
+Name=Brendan
+PokemonNos=0,1,2
+BeginSpeech=You dare challenge a king? Prepare for the worst!
+Type=GL10
+EndSpeechWin=Hmph. Long way to go, kid.
