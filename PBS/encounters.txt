@@ -1184,7 +1184,7 @@ BULBASAUR,10
 BULBASAUR,10
 BULBASAUR,10
 #-------------------------------
-253 # Sandstone Path
+253 # Antiqua Path
 25,10,10
 Land
 MIGHTYENA,40,45

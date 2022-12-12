@@ -548,7 +548,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [103]
-# Antiqua Pass
+# (OLD) ANtiqua pass
 MapSize=1,1111
 Bicycle=true
 MapPosition=0,26,8
@@ -1295,7 +1295,7 @@ MapPosition=0,4,5
 MapPosition=0,4,5
 #-------------------------------
 [253]
-# Sandstone Path
+# Antiqua Path
 MapSize=2,11
 BattleBack=Field
 Bicycle=true
@@ -2832,7 +2832,7 @@ Outdoor=false
 ShowArea=false
 #-------------------------------
 [534]
-# Underwater
+# Zeph Ocean
 BattleBack=Underwater
 MapPosition=0,10,15
 Outdoor=false
