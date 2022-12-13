@@ -1504,10 +1504,10 @@ ShowArea=true
 #-------------------------------
 [305]
 # Lux Strait
-MapSize=4,10001111
+MapSize=3,100111
 Weather=Rain,20
 Bicycle=true
-MapPosition=0,2,16
+MapPosition=0,12,16
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -1553,7 +1553,7 @@ ShowArea=true
 [310]
 # Velexia Gulf
 DiveMap=362
-MapPosition=0,17,17
+MapPosition=0,15,17
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -2837,3 +2837,11 @@ BattleBack=Underwater
 MapPosition=0,10,15
 Outdoor=false
 ShowArea=false
+#-------------------------------
+[535]
+# Erodon Trail
+MapSize=2,11
+Bicycle=true
+MapPosition=0,24,12
+Outdoor=true
+ShowArea=true
