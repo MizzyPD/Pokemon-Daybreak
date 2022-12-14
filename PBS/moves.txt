@@ -753,3 +753,4 @@
 754,WAVECRASH,Wave Crash,0FB,110,WATER,Physical,100,15,0,00,0,abef,"The user summons a wave and crashes into the opponent. This damages the user."
 755,FLIPTURN,Flip Turn,0EE,70,WATER,Physical,100,20,0,00,0,abef,"After making their attack, the user rushes back to switch places with a party Pokémon in waiting."
 756,SHADOWLUNGE,Shadow Lunge,0FE,120,DARK,Physical,100,15,10,00,0,abefg,"The user strikes camouflaged by shadows. It damages the user quite a lot and may burn the target." #Greninja Exclusive [New]
+757,LASTRESPECTS,Last Respects,210,50,GHOST,PHYSICAL,100,10,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power." #BASCULEGION EXCLUSIVE

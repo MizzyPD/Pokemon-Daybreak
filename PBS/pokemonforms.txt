@@ -13,13 +13,15 @@ BattlerEnemyY=14
 [VENUSAUR-2]
 FormName=Mega Venusaur X
 MegaStone=VENUSAURITEX
-BaseStats=80,130,83,105,129,100
-BaseEXP=281
 Type1=GRASS
 Type2=GHOST
+BaseStats=80,130,83,105,129,100
+BaseEXP=281
 Abilities=ARENATRAP
 Height=2.4
 Weight=155.5
+BattlerPlayerY=8
+BattlerEnemyY=4
 #-------------------------------
 [PIKACHU-1]
 FormName=Pikachu-Armira
@@ -29,16 +31,17 @@ Moves=1,TAILWHIP,1,THUNDERSHOCK,5,GROWL,7,PLAYNICE,10,QUICKATTACK,13,ELECTROBALL
 #-------------------------------
 [SWELLOW-1]
 FormName=Armiran Swellow
-BaseStats=60,65,60,135,85,50
-BaseEXP=281
 Type1=ELECTRIC
 Type2=FLYING
+BaseStats=60,65,60,135,85,50
+BaseEXP=281
 Abilities=MOTORDRIVE
 HiddenAbility=GALVANIZE
 Moves=1,BRAVEBIRD,1,AIRSLASH,1,PLUCK,1,PECK,1,GROWL,1,FOCUSENERGY,1,QUICKATTACK,5,FOCUSENERGY,9,QUICKATTACK,13,WINGATTACK,17,DOUBLETEAM,21,AERIALACE,24,CHARGE,27,QUICKGUARD,30,THUNDERSHOCK,33,AGILITY,36,AIRCUTTER,36,AIRSLASH,39,SHOCKWAVE,42,ELECTRIFY,45,ENDEAVOR,51,BRAVEBIRD,54,THUNDER,57,REVERSAL,60,BOOMBURST,64,ZAPCANNON,70,HURRICANE
-Pokedex=It can induce thunderstorms to create attacks. It often targets fishing ships to steal food from netting.
 Height=2.4
 Weight=155.5
+Pokedex=It can induce thunderstorms to create attacks. It often targets fishing ships to steal food from netting.
+BattlerEnemyY=7
 BattlerAltitude=1
 #-------------------------------
 [LAPRAS-1]
@@ -46,7 +49,7 @@ FormName=Mega Lapras
 MegaStone=LAPRASITE
 BaseStats=130,85,120,90,85,125
 Abilities=CRYOSHELL
-BattlerEnemyY=9
+BattlerEnemyY=10
 #-------------------------------
 [CHARIZARD-1]
 FormName=Mega Charizard X
@@ -82,11 +85,11 @@ BattlerEnemyY=16
 #-------------------------------
 [BLASTOISE-2]
 FormName=Mega Blastoise X
-MegaStone=BLASTOISINITE
-BaseStats=79,125,140,73,83,130
-BaseEXP=284
+MegaStone=BLASTOISINITEX
 Type1=WATER
 Type2=STEEL
+BaseStats=79,125,140,78,78,130
+BaseEXP=284
 Abilities=MAGNETPULL
 Weight=101.1
 BattlerEnemyY=16
@@ -190,7 +193,7 @@ Moves=1,NIGHTSLASH,1,LEER,1,ABSORB,1,QUICKATTACK,6,LEECHLIFE,11,SLASH,16,XSCISSO
 Color=Purple
 Kind=Toxic Forest
 Pokedex=It recides by itself, and is extremely competitive. This Pokémon disintergrates trees and plants.
-BattlerEnemyY=8
+BattlerEnemyY=15
 #-------------------------------
 [SCEPTILE-3]
 FormName=Mega Armiran
@@ -199,7 +202,41 @@ Type1=POISON
 Type2=DARK
 BaseStats=70,145,75,145,110,85
 Abilities=ELECTRICSURGE
-BattlerEnemyY=8
+BattlerEnemyY=11
+#-------------------------------
+[TYPHLOSION-1]
+FormName=Hisuian
+Type1=FIRE
+Type2=GHOST
+BaseStats=73,84,78,95,119,85
+Moves=1,HEX,1,DOUBLEEDGE,1,GYROBALL,1,TACKLE,1,LEER,1,SMOKESCREEN,1,EMBER,6,SMOKESCREEN,10,EMBER,13,QUICKATTACK,20,FLAMEWHEEL,24,DEFENSECURL,31,SWIFT,35,FLAMECHARGE,43,SHADOWBALL,48,FLAMETHROWER,56,INFERNALPARADE,61,ROLLOUT,69,DOUBLEEDGE,74,BURNUP,82,ERUPTION
+Height=1.6
+Weight=69.7
+Kind=Ghost Flame
+Pokedex=Said to purify lost, forsaken souls with its flames and guide them to the afterlife.
+BattlerEnemyY=4
+#-------------------------------
+[ZORUA-2]
+FormName=Hisuian
+Type1=NORMAL
+Type2=GHOST
+BaseStats=35,60,40,70,85,40
+Moves=1,SCRATCH,1,LEER,4,TORMENT,6,SNARL,8,HONECLAWS,11,SWIFT,12,SHADOWSNEAK,16,BITTERMALICE,20,SLASH,24,SHADOWCLAW,28,FAKETEARS,32,NASTYPLOT
+EggMoves=
+Color=White
+Kind=Spiteful Fox
+Pokedex=A once-departed soul, returned to life. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.
+#-------------------------------
+[ZOROARK-2]
+FormName=Hisuian
+Type1=NORMAL
+Type2=GHOST
+BaseStats=55,100,60,110,125,60
+Moves=1,SHADOWCLAW,1,UTURN,1,SCRATCH,1,LEER,1,TORMENT,1,HONECLAWS,6,SNARL,11,SWIFT,12,SHADOWSNEAK,16,BITTERMALICE,20,SLASH,24,SHADOWCLAW,28,FAKETEARS,34,AGILITY,40,SHADOWBALL,46,EXTRASENSORY,52,NASTYPLOT
+Color=White
+Kind=Baneful Fox
+Pokedex=With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
+BattlerEnemyY=9
 #-------------------------------
 [PUPITAR-2]
 FormName=Primed Form
@@ -211,7 +248,7 @@ Type1=FIRE
 Type2=ROCK
 BaseStats=100,95,110,70,125,100
 Abilities=DROUGHT
-Moves=1,THUNDERFANG,1,ICEFANG,1,FIREFANG,1,POWERGEM,1,LEER,1,SUNNYDAY,1,SCREECH,5,SANDSTORM,10,SCREECH,14,EMBER,19,ROCKSLIDE,26,SCARYFACE,31,FLAMETHROWER,38,DARKPULSE,44,ERUPTION,51,CRUNCH,58,EARTHQUAKE,62,LAVAPLUME,68,MAGMASTORM,73,STONEEDGE,80,HYPERBEAM
+Moves=1,THUNDERFANG,1,ICEFANG,1,FIREFANG,1,POWERGEM,1,LEER,1,SUNNYDAY,1,SCREECH,5,SANDSTORM,10,SCREECH,14,EMBER,19,ROCKSLIDE,26,SCARYFACE,31,FLAMETHROWER,38,DARKPULSE,44,ERUPTION,51,CRUNCH,58,EARTHQUAKE,62,LAVAPLUME,68,POWERGEM,73,STONEEDGE,80,HYPERBEAM
 Color=Red
 Kind=Volcanic
 Pokedex=A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in volcanic areas seeking new opponents to fight.
@@ -223,8 +260,7 @@ Type1=FIRE
 Type2=ROCK
 BaseStats=100,95,130,80,155,140
 Abilities=DROUGHT
-Moves=1,THUNDERFANG,1,ICEFANG,1,FIREFANG,1,POWERGEM,1,LEER,1,SUNNYDAY,1,SCREECH,5,SANDSTORM,10,SCREECH,14,EMBER,19,ROCKSLIDE,26,SCARYFACE,31,FLAMETHROWER,38,DARKPULSE,44,ERUPTION,51,CRUNCH,58,EARTHQUAKE,62,LAVAPLUME,68,MAGMASTORM,73,STONEEDGE,80,HYPERBEAM
-BattlerEnemyY=7
+BattlerEnemyY=8
 #-------------------------------
 [GABITE-2]
 FormName=Ascended Form
@@ -237,7 +273,6 @@ BaseStats=108,110,85,102,110,95
 Abilities=ROUGHSKIN
 HiddenAbility=PRESSURE
 Moves=0,CRUNCH,1,CRUNCH,1,DUALCHOP,1,FIREFANG,1,TACKLE,1,SANDATTACK,1,DRAGONRAGE,1,FAIRYLOCK,3,SANDATTACK,7,DRAGONRAGE,13,FAIRYLOCK,15,TAKEDOWN,19,PLAYROUGH,28,SLASH,33,DRAGONCLAW,40,DAZZLINGGLEAM,55,DRAGONRUSH,61,MOONBLAST
-BattlerEnemyY=4
 #-------------------------------
 [VULPIX-1]
 FormName=Alola Form
@@ -285,7 +320,6 @@ Abilities=SANDVEIL,TANGLINGHAIR
 HiddenAbility=SANDFORCE
 Moves=0,SANDTOMB,1,SANDTOMB,1,ROTOTILLER,1,NIGHTSLASH,1,TRIATTACK,1,SANDATTACK,1,METALCLAW,1,GROWL,4,GROWL,7,ASTONISH,10,MUDSLAP,14,MAGNITUDE,18,BULLDOZE,22,SUCKERPUNCH,25,MUDBOMB,30,EARTHPOWER,35,DIG,41,IRONHEAD,47,EARTHQUAKE,53,FISSURE
 Weight=66.6
-BattlerPlayerY=25
 BattlerEnemyY=22
 #-------------------------------
 [MEOWTH-1]
@@ -295,7 +329,6 @@ BaseStats=40,35,35,90,50,40
 Abilities=PICKUP,TECHNICIAN
 HiddenAbility=RATTLED
 Moves=1,SCRATCH,1,GROWL,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK,25,TAUNT,30,PAYDAY,33,SLASH,38,NASTYPLOT,41,ASSURANCE,46,CAPTIVATE,49,NIGHTSLASH,50,FEINT,55,DARKPULSE
-BattlerPlayerY=26
 Evolutions=PERSIAN,Happiness,
 #-------------------------------
 [PERSIAN-1]
@@ -307,7 +340,6 @@ HiddenAbility=RATTLED
 Moves=0,SWIFT,1,SWIFT,1,QUASH,1,PLAYROUGH,1,SWITCHEROO,1,SCRATCH,1,GROWL,1,BITE,1,FAKEOUT,6,BITE,9,FAKEOUT,14,FURYSWIPES,17,SCREECH,22,FEINTATTACK,25,TAUNT,32,POWERGEM,37,SLASH,44,NASTYPLOT,49,ASSURANCE,56,CAPTIVATE,61,NIGHTSLASH,65,FEINT,69,DARKPULSE
 Height=1.1
 Weight=33.0
-BattlerPlayerY=16
 BattlerEnemyY=13
 #-------------------------------
 [ALAKAZAM-1]
@@ -389,7 +421,7 @@ HiddenAbility=REGENERATOR
 Moves=1,SHELLSIDEARM,1,WITHDRAW,1,TACKLE,1,CURSE,1,GROWL,1,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPULSE,21,HEADBUTT,24,ZENHEADBUTT,27,AMNESIA,30,SURF,33,SLACKOFF,36,PSYCHIC,39,PSYCHUP,42,RAINDANCE,45,HEALPULSE
 Weight=70.5
 Pokedex=If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.
-BattlerEnemyY=23
+BattlerEnemyY=22
 #-------------------------------
 [GRIMER-1]
 FormName=Alola Form
@@ -433,8 +465,6 @@ HiddenAbility=HARVEST
 Moves=0,DRAGONHAMMER,1,DRAGONHAMMER,1,SEEDBOMB,1,BARRAGE,1,HYPNOSIS,1,CONFUSION,17,PSYSHOCK,27,EGGBOMB,37,WOODHAMMER,47,LEAFSTORM
 Height=10.9
 Weight=415.6
-BattlerPlayerY=12
-BattlerEnemyY=8
 #-------------------------------
 [MAROWAK-1]
 FormName=Alola Form
@@ -727,7 +757,7 @@ BaseEXP=315
 Abilities=SANDSTREAM
 Height=2.5
 Weight=255.0
-BattlerEnemyY=8
+BattlerEnemyY=10
 #-------------------------------
 [SCEPTILE-1]
 FormName=Mega Sceptile
@@ -979,7 +1009,6 @@ BaseEXP=351
 Abilities=DELTASTREAM
 Height=10.8
 Weight=392.0
-BattlerPlayerY=3
 BattlerEnemyY=5
 #-------------------------------
 [DEOXYS-1]
@@ -1168,7 +1197,6 @@ Height=3.0
 Weight=16.0
 Color=Gray
 WildItemUncommon=MISTYSEED
-BattlerPlayerY=3
 BattlerEnemyY=6
 #-------------------------------
 [SHAYMIN-1]
@@ -1187,7 +1215,7 @@ BattlerEnemyY=18
 FormName=King's Bisharp
 Type1=STEEL
 BaseStats=85,155,155,80,40,40
-Abilities=INNERFOCUS
+Abilities=DEFIANT
 Color=Yellow
 Kind=King's Guard
 Pokedex=The King's Bisharp has been owned by royalty for generations. It is renowned for its services.
@@ -1651,9 +1679,11 @@ BattlerEnemyY=12
 #-------------------------------
 [XERNEAS-1]
 FormName=Active Mode
+BattlerPlayerY=0
 #-------------------------------
 [ZOROARK-1]
 FormName=Werewolf
+BattlerEnemyY=4
 #-------------------------------
 [ZYGARDE-1]
 FormName=Zygarde 10% Forme
@@ -2363,7 +2393,6 @@ Pokedex=The moment it evolved, it took a mixed flavor. This is because of the wa
 FormName=Noice Face
 BaseStats=75,80,70,130,65,90
 Pokedex=The ice covering this Pokémon face has shattered, revealing a slightly worries expression that many people are enamored with.
-BattlerPlayerY=7
 #-------------------------------
 [INDEEDEE-1]
 FormName=Female
@@ -2375,7 +2404,6 @@ Moves=1,STOREDPOWER,1,PLAYNICE,5,BATONPASS,10,DISARMINGVOICE,15,PSYBEAM,20,HELPI
 [MORPEKO-1]
 FormName=Hangry Form
 Pokedex=Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy.
-BattlerPlayerY=27
 #-------------------------------
 [ZACIAN-1]
 FormName=Crowned Sword
@@ -2384,7 +2412,6 @@ Type2=STEEL
 BaseStats=92,170,115,148,80,115
 Weight=335.0
 Pokedex=Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.
-BattlerPlayerY=4
 BattlerEnemyY=5
 #-------------------------------
 [ZAMAZENTA-1]
@@ -2394,7 +2421,6 @@ Type2=STEEL
 BaseStats=92,130,145,128,80,145
 Weight=785.0
 Pokedex=Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all
-BattlerPlayerY=4
 BattlerEnemyY=8
 #-------------------------------
 [ETERNATUS-1]
@@ -2402,7 +2428,6 @@ FormName=Eternamx Eternatus
 BaseStats=255,115,250,130,125,250
 Height=100.0
 Pokedex=As a result of Rose's meddling, Eternatus absorbed all the energy in the Galar region. It's now in a state of power overload.
-BattlerPlayerY=3
 BattlerEnemyY=4
 #-------------------------------
 [DIALGA-1]
@@ -2420,7 +2445,6 @@ Type1=ELECTRIC
 Type2=FIRE
 BaseStats=62,55,52,139,149,124
 Abilities=CHLOROPHYLL
-BattlerPlayerY=0
 BattlerEnemyY=6
 #-------------------------------
 [PAERODACTYL-1]
@@ -2459,7 +2483,6 @@ Type1=ICE
 Type2=DRAGON
 BaseStats=110,105,100,105,135,125
 Abilities=LEVITATE
-BattlerPlayerY=5
 BattlerEnemyY=13
 #-------------------------------
 [ZAPDOS-2]
@@ -2497,11 +2520,9 @@ Type1=PSYCHIC
 Abilities=RUNAWAY,PASTELVEIL
 HiddenAbility=ANTICIPATION
 Moves=1,TACKLE,1,GROWL,5,TAILWHIP,10,CONFUSION,15,FAIRYWIND,20,AGILITY,25,PSYBEAM,30,STOMP,35,HEALPULSE,41,TAKEDOWN,45,DAZZLINGGLEAM,50,PSYCHIC,55,HEALINGWISH
-EggMoves=
 Height=0.8
 Weight=24.0
 Color=White
-BattlerPlayerY=21
 BattlerEnemyY=24
 #-------------------------------
 [RAPIDASH-1]
@@ -2513,8 +2534,6 @@ HiddenAbility=ANTICIPATION
 Moves=0,PSYCHOCUT,1,PSYCHOCUT,1,MEGAHORN,1,TACKLE,1,QUICKATTACK,1,GROWL,1,TAILWHIP,1,CONFUSION,15,FAIRYWIND,20,AGILITY,25,PSYBEAM,30,STOMP,35,HEALPULSE,43,TAKEDOWN,49,DAZZLINGGLEAM,56,PSYCHIC,63,HEALINGWISH
 Weight=80.0
 Color=White
-BattlerPlayerY=12
-BattlerEnemyY=13
 #-------------------------------
 [FARFETCHD-1]
 FormName=Galarian Farfetch'd
@@ -2523,10 +2542,10 @@ BaseStats=52,95,55,55,58,62
 Abilities=STEADFAST
 HiddenAbility=SCRAPPY
 Moves=1,PECK,1,SANDATTACK,5,LEER,10,FURYCUTTER,15,ROCKSMASH,20,BRUTALSWING,25,DETECT,30,KNOCKOFF,35,DEFOG,40,BRICKBREAK,45,SWORDSDANCE,50,SLAM,55,LEAFBLADE,60,FINALGAMBIT,65,BRAVEBIRD
-EggMoves=
 Weight=42.0
 Pokedex=The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.
 WildItemCommon=STICK
+BattlerEnemyY=28
 Evolutions=SIRFETCHD,Happiness,
 #-------------------------------
 [CORSOLA-1]
@@ -2537,7 +2556,7 @@ EffortPoints=0,0,0,0,0,1
 Abilities=WEAKARMOR
 HiddenAbility=CURSEDBODY
 Moves=1,TACKLE,1,HARDEN,5,ASTONISH,10,DISABLE,15,SPITE,20,ANCIENTPOWER,25,HEX,30,CURSE,35,STRENGTHSAP,40,POWERGEM,45,NIGHTSHADE,50,GRUDGE,55,MIRRORCOAT
-EggMoves=
 Weight=0.5
 Color=White
+BattlerEnemyY=29
 Evolutions=CURSOLA,Level,38
