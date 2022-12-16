@@ -133,19 +133,19 @@ MapPosition=0,15,8
 MapPosition=0,15,8
 #-------------------------------
 [028]
-# Natural Park
+# Natural Woods
 BattleBack=Forest
 MapPosition=0,16,8
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [029]
-# Natural Park Entrance
+# Natural Woods Entrance
 Bicycle=true
 MapPosition=0,16,8
 #-------------------------------
 [030]
-# Natural Park Pavillion
+# Natural Woods Pavillion
 MapPosition=0,16,8
 #-------------------------------
 [031]
@@ -448,7 +448,7 @@ ShowArea=true
 [085]
 # Evergreen Hill
 Weather=Storm,100
-MapPosition=0,26,9
+MapPosition=0,26,11
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -1498,7 +1498,7 @@ ShowArea=true
 # Castle Armira
 MapSize=1,1
 Bicycle=true
-MapPosition=0,15,1
+MapPosition=0,15,3
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -1565,7 +1565,7 @@ MapPosition=0,13,3
 #-------------------------------
 [312]
 # Castle Armira
-MapPosition=0,15,1
+MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [313]
@@ -1627,40 +1627,39 @@ Outdoor=false
 #-------------------------------
 [324]
 # Castle Armira
-MapPosition=0,15,1
+MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [325]
-# Iriscent Park
+# Iriscent Woods
 BattleBack=Darchlight
 Bicycle=true
-MapPosition=0,14,4
+MapPosition=0,15,5
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [326]
-# Iriscent Park
-MapSize=1,111
+# Iriscent Woods
 BattleBack=Forest
 Bicycle=true
-MapPosition=0,15,3
+MapPosition=0,15,5
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [327]
 # Guardian's Temple
 BattleBack=CaveDark
-MapPosition=0,15,4
+MapPosition=0,15,5
 Outdoor=false
 ShowArea=true
 #-------------------------------
 [328]
-# Iriscent Park North Gate
-MapPosition=0,15,3
+# Iriscent Woods North Gate
+MapPosition=0,15,5
 Outdoor=false
 #-------------------------------
 [329]
-# Iriscent Park South Gate
+# Iriscent Woods South Gate
 MapPosition=0,15,5
 Outdoor=false
 #-------------------------------
@@ -1736,19 +1735,19 @@ HealingSpot=339,39,22
 #-------------------------------
 [343]
 # Castle Armira
-MapPosition=0,15,1
+MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [344]
 # Castle Armira
 BattleBack=IndoorBlack
-MapPosition=0,15,1
+MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [345]
 # Castle Armira
 BattleBack=IndoorBlack
-MapPosition=0,15,1
+MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [347]
@@ -2049,10 +2048,10 @@ Outdoor=false
 ShowArea=true
 #-------------------------------
 [394]
-# Castle Armira
+# Forgotten Hill
 BattleBack=ArmiraZap
 Weather=Storm,100
-MapPosition=0,15,1
+MapPosition=0,16,3
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -2775,7 +2774,7 @@ ShowArea=true
 [523]
 # Armira Cemetery
 BattleBack=IndoorBlack
-MapPosition=0,15,1
+MapPosition=0,15,5
 Outdoor=false
 #-------------------------------
 [524]
@@ -2845,3 +2844,16 @@ Bicycle=true
 MapPosition=0,24,12
 Outdoor=true
 ShowArea=true
+#-------------------------------
+[536]
+# Victory Road PC
+Bicycle=true
+MapPosition=0,14,17
+Outdoor=false
+ShowArea=false
+HealingSpot=305,142,71
+#-------------------------------
+[537]
+# Iriscent Woods West Gate
+MapPosition=0,15,5
+Outdoor=false

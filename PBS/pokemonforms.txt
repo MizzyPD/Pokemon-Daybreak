@@ -85,7 +85,7 @@ BattlerEnemyY=16
 #-------------------------------
 [BLASTOISE-2]
 FormName=Mega Blastoise X
-MegaStone=BLASTOISINITEX
+MegaStone=BLASTOISINITE
 Type1=WATER
 Type2=STEEL
 BaseStats=79,125,140,78,78,130
