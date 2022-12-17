@@ -754,5 +754,5 @@
 755,FLIPTURN,Flip Turn,0EE,70,WATER,Physical,100,20,0,00,0,abef,"After making their attack, the user rushes back to switch places with a party Pokémon in waiting."
 756,SHADOWLUNGE,Shadow Lunge,0FE,120,DARK,Physical,100,15,10,00,0,abefg,"The user strikes camouflaged by shadows. It damages the user quite a lot and may burn the target." #Greninja Exclusive [New]
 757,LASTRESPECTS,Last Respects,210,50,GHOST,PHYSICAL,100,10,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power." #BASCULEGION EXCLUSIVE
-758,INFERNALPARADE,Last Respects,210,50,GHOST,PHYSICAL,100,10,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power." #BASCULEGION EXCLUSIVE
-759,BITTERMALICE,Last Respects,210,50,GHOST,PHYSICAL,100,10,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power." #BASCULEGION EXCLUSIVE
+758,BITTERMALICE,Bitter Malice,00C,90,GHOST,Special,100,15,10,00,0,be,"The user attacks its target with spine-chilling resentment. This may also leave the target with freeze." #H Zoro
+759,INFERNALPARADE,Infernal Parade,00A,90,GHOST,Special,100,10,10,00,0,be,"The user attacks with myriad fireballs. This may also leave the target with a burn." # H Typhlosion
