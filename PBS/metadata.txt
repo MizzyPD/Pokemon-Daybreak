@@ -2857,3 +2857,15 @@ HealingSpot=305,142,71
 # Iriscent Woods West Gate
 MapPosition=0,15,5
 Outdoor=false
+#-------------------------------
+[542]
+# Aquafina Library
+MapPosition=0,26,12
+#-------------------------------
+[543]
+# Aquafina Library
+MapPosition=0,26,12
+#-------------------------------
+[544]
+# Aquafina Library
+MapPosition=0,26,12
