@@ -1790,6 +1790,7 @@ MapPosition=0,26,12
 [352]
 # Aquafina Library
 MapPosition=0,26,12
+BattleBack=Distortion
 #-------------------------------
 [353]
 # Aquafina Library

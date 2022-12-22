@@ -3,9 +3,8 @@
 #-------------------------------
 YOUNGSTER
 Tester
-2
-SHEDINJA,100,,STEALTHROCK,SPIKES
-MAGIKARP,5
+1
+GIGALITH,20
 #-------------------------------
 # BOSSES
 DEVRAZ
