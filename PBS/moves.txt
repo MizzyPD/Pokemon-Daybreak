@@ -494,7 +494,7 @@
 494,ROLEPLAY,Role Play,065,0,PSYCHIC,Status,0,10,0,00,0,,"The user mimics the target completely, copying the target's natural Ability."
 495,SKILLSWAP,Skill Swap,067,0,PSYCHIC,Status,0,10,0,00,0,be,"The user employs their psychic power to exchange Abilities with the target."
 496,TELEKINESIS,Telekinesis,11A,0,PSYCHIC,Status,0,15,0,00,0,bcel,"The user makes the target float with psychic power. The target is easier to hit for three turns."
-497,TELEPORT,Teleport,0EA,0,PSYCHIC,Status,0,20,0,10,-6,,"Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
+497,TELEPORT,Teleport,0EA,0,PSYCHIC,Status,0,20,0,10,0,,"Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
 498,TRICK,Trick,0F2,0,PSYCHIC,Status,100,10,0,00,0,be,"The user catches the target off guard and swaps held items."
 499,TRICKROOM,Trick Room,11F,0,PSYCHIC,Status,0,5,0,20,-7,e,"The user creates a bizarre area in which slower Pokémon get to move first for five turns."
 500,WONDERROOM,Wonder Room,124,0,PSYCHIC,Status,0,10,0,20,0,e,"The user creates a bizarre area in which Defense and Sp. Def stats are swapped for five turns."
@@ -735,24 +735,23 @@
 736,SUPERCELL,Supercell,007,50,ELECTRIC,Special,100,5,100,04,0,bdefm,"The user creates a violent supercell which causes high damage and paralysis to the target." # Mega Zapdos exclusive
 737,MAGMANADO,Magmanado,00A,50,FIRE,Special,100,5,100,04,0,bdefm,"The user creates a violent firedevil which causes high damage and burns the target." # Mega Moltres exclusive
 738,FROSTBITE,Frostbite,00E,50,ICE,Special,100,5,100,04,0,bdefm,"The user creates a violent ice tornado which causes high damage and freezes the target." # Mega Articuno exlusive
-739,FAIRYRUSH,Fairy Rush,000,40,FAIRY,Physical,100,20,0,00,1,abefm,"Cloaked in mist, the user attacks. This move has increased priority." # Gabite/Garchomp exclusive. used to evolve into Armiran Garchomp
+739,FAIRYRUSH,Fairy Rush,010,100,FAIRY,Physical,75,10,20,00,0,abef,"The user rushes the target, exhibiting overwhelming menace. This may also make the target flinch." # Gabite/Garchomp exclusive. used to evolve into Armiran Garchomp
 740,FREEZINGGLARE,Freezing Glare,00C,80,PSYCHIC,Special,100,10,25,00,0,bef,"The Pokémon attacks by firing psychic power from both eyes. This move may also leave the target frozen." # Galarian Articuno exclusive
 741,THUNDEROUSKICK,Thunderous Kick,043,80,FIGHTING,Physical,100,10,100,00,0,abef,"The Pokémon overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target’s Defense stat." # Galarian Zapdos exclusive
 742,FIERYWRATH,Fiery Wrath,00F,80,DARK,Special,100,10,50,00,0,bef,"The Pokémon transforms its wrath into a fire-like aura to attack. It may also make opposing Pokémon flinch." # Galarian Moltres exclusive
 743,DOUBLEIRONBASH,Double Iron Bash,A10,60,STEEL,Physical,100,5,30,00,0,abefj,"The user centers the hex nut in its chest and then strikes twice with its arms. This may also make the target flinch."
-744,SHADOWSHURIKEN,Shadow Shuriken,0C0,20,DARK,Special,100,20,0,00,0,bef,"The user attacks with throwing stars two to five times in a row." #Greninja Exclusive
+744,SHADOWSHURIKEN,Shadow Shuriken,0C0,20,DARK,Special,100,20,0,00,0,bef,"The user attacks with throwing stars two to five times in a row." #Greninja Exclusive [Removed]
 745,LUNARBEAM,Lunar Beam,0C4,150,PSYCHIC,Special,100,5,0,00,0,bef,"In this two-turn attack, the user gathers moonlight, then blasts a bundled beam on the next turn." #Cresselia
 746,FISTSOFFLAMES,Fists of Flames,03C,120,FIRE,Physical,100,5,0,00,0,abef,"The user fights up close using their fiery fists. It lowers the user's Defense and Sp. Def stats." #Unreleased
 747,NECROPUNCH,Necro Punch,0DD,75,GHOST,Physical,100,10,0,00,0,abefj,"A life-sucking punch. The user's HP is restored by half the damage taken by the target." #Unreleased
 748,AROMAJAB,Aroma Jab,00F,90,GRASS,Physical,100,15,30,00,0,abef,"The target is jabbed by a grassy fist. This may also make the target flinch." # Unreleased
 749,SKYSTRIKE,Sky Strike,000,85,FLYING,Physical,90,35,0,00,0,abef,"A physical attack in which the user dives from the sky into the target." #New physical move for flying types since there arent many
-750,GHOSTLYVENOM,Ghostly Venom,005,90,GHOST,Special,100,10,30,00,0,be,"The user attacks the target with a ghostly venom. This may also poison the target."
+750,GHOSTLYVENOM,Ghostly Venom,005,90,GHOST,Special,100,10,30,00,0,be,"The user attacks the target with a ghostly venom. This may also poison the target." #Venusaur Exclusive
 751,SHELLSIDEARM,Shell Side Arm,000,90,POISON,Special,100,10,20,00,0,bef,"This move inflicts physical or special damage, whichever will be more effective. This may also poison the target."
 752,POSE,Pose,001,0,NORMAL,Status,0,60,0,00,0,l,"The user remains in a pose, effectively doing nothing at all."
-753,FROSTRUSH,Frost Rush,00F,90,ICE,Physical,90,10,10,00,0,be,"The user glaciates itself and charges at the target to cause damage. The target may flinch."
-754,WAVECRASH,Wave Crash,0FB,110,WATER,Physical,100,15,0,00,0,abef,"The user summons a wave and crashes into the opponent. This damages the user."
-755,FLIPTURN,Flip Turn,0EE,70,WATER,Physical,100,20,0,00,0,abef,"After making their attack, the user rushes back to switch places with a party Pokémon in waiting."
-756,SHADOWLUNGE,Shadow Lunge,0FE,120,DARK,Physical,100,15,10,00,0,abefg,"The user strikes camouflaged by shadows. It damages the user quite a lot and may burn the target." #Greninja Exclusive [New]
-757,LASTRESPECTS,Last Respects,210,50,GHOST,PHYSICAL,100,10,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power." #BASCULEGION EXCLUSIVE
-758,BITTERMALICE,Bitter Malice,00C,90,GHOST,Special,100,15,10,00,0,be,"The user attacks its target with spine-chilling resentment. This may also leave the target with freeze." #H Zoro
-759,INFERNALPARADE,Infernal Parade,00A,90,GHOST,Special,100,10,10,00,0,be,"The user attacks with myriad fireballs. This may also leave the target with a burn." # H Typhlosion
+753,FROSTRUSH,Frost Rush,00F,90,ICE,Physical,90,10,10,00,0,be,"The user glaciates itself and charges at the target to cause damage. The target may flinch." #New Ice move
+754,FLIPTURN,Flip Turn,0EE,70,WATER,Physical,100,20,0,00,0,abef,"After making their attack, the user rushes back to switch places with a party Pokémon in waiting."
+755,BLAZINGSHURIKEN,Blazing Shuriken,0C0,25,FIRE,Physical,100,30,0,00,0,bef,"The user flings blazing shurikens at the target two to five times in a row." # A gren
+756,BITTERMALICE,Bitter Malice,00A,90,GHOST,Special,100,15,10,00,0,be,"The user attacks its target with spine-chilling resentment. This may also leave the target with freeze." #H Zoro
+757,INFERNALPARADExz ,Infernal Parade,00C,90,GHOST,Special,100,10,10,00,0,be,"The user attacks with myriad fireballs. This may also leave the target with a burn." # H Typhlosion
+758,WAVECRASH,Wave Crash,0FB,120,WATER,Physical,100,15,0,00,0,abef,"The user shrouds itself in water and slams into the target. This also damages the user quite a lot."
