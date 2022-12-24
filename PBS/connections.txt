@@ -50,7 +50,7 @@
 340,North,0,339,South,8
 # Iriscent Coast (392) - Iriscent Coast (391)
 392,East,1,391,West,0
-# Castle Armira (394) - Castle Armira (304)
+# Forgotten Hill (394) - Castle Armira (304)
 394,West,0,304,East,0
 # Strange Tower (404) - Verede Swamp (173)
 404,West,0,173,East,94
@@ -68,32 +68,6 @@
 477,West,0,476,East,35
 # Helius Glacier (477) - Helius Glacier (471)
 477,West,0,471,East,105
-# Erodon Town (227) - Erodon Outskirts (500)
-227,West,17,500,East,0
-# Antiqua Path (253) - Antiqua Desert (104)
-253,North,0,104,South,14
-# Rederyl City (105) - Antiqua Desert (104)
-105,South,0,104,North,20
-# Kwao Road (106) - Kwao Road (159)
-106,North,0,159,South,0
-# filla (158) - Kwao Road (159)
-158,East,0,159,West,0
-# Marewn Town (92) - Kwao Road (159)
-92,West,4,159,East,0
-# Kwao Road (109) - Kwao Road (159)
-109,North,50,159,South,0
-# filler in the north (281) - Zeph Town (126)
-281,East,0,126,West,0
-# Briseano Town (94) - Zeph Town (126)
-94,North,98,126,South,0
-# Brisé Ocean (166) - Zeph Town (126)
-166,North,42,126,South,0
-# Kwao Road (106) - Zeph Town (126)
-106,South,0,126,North,18
-# Zeph Ocean (189) - Zeph Town (126)
-189,North,0,126,South,14
-# Kwao Road (109) - Zeph Town (126)
-109,South,32,126,North,0
 # Kolana Path (204) - Killamont Path (181)
 204,South,29,181,North,0
 # Power Plant Outside (134) - Killamont Path (181)
@@ -102,20 +76,32 @@
 190,South,0,181,North,21
 # Yellowstone City (174) - Killamont Path (181)
 174,North,14,181,South,0
-# Eversnow Trail (287) - Eversnow Trail (297)
-287,North,5,297,South,0
-# Erodon Trail (193) - Antiqua Path (253)
-193,East,0,253,West,84
-# Erodon Town (227) - Antiqua Path (253)
-227,East,0,253,West,24
-# Marewn Town (92) - Antiqua Path (253)
-92,North,456,253,South,0
-# Rochester Trail (171) - Awbah Cliffs (176)
-171,South,0,176,North,307
-# Platoh City (136) - Awbah Cliffs (176)
-136,North,7,176,South,0
-# Snalaska Village (230) - Awbah Cliffs (176)
-230,South,0,176,North,0
+# Briseano Town (94) - Zeph Town (126)
+94,North,98,126,South,0
+# filler in the north (281) - Zeph Town (126)
+281,East,0,126,West,0
+# Brisé Ocean (166) - Zeph Town (126)
+166,North,42,126,South,0
+# Kwao Road (106) - Zeph Town (126)
+106,South,0,126,North,18
+# Zeph Ocean (189) - Zeph Town (126)
+189,North,0,126,South,14
+# Kwao Road (109) - Zeph Town (126)
+109,South,32,126,North,0
+# Kwao Road (106) - Kwao Road (159)
+106,North,0,159,South,0
+# filla (158) - Kwao Road (159)
+158,East,0,159,West,0
+# Marewn Town (92) - Kwao Road (159)
+92,West,4,159,East,0
+# Kwao Road (109) - Kwao Road (159)
+109,North,50,159,South,0
+# Erodon Town (227) - Erodon Outskirts (500)
+227,West,17,500,East,0
+# Antiqua Path (253) - Antiqua Desert (104)
+253,North,0,104,South,14
+# Rederyl City (105) - Antiqua Desert (104)
+105,South,0,104,North,20
 # Laquana Trail (199) - Raydon Town (33)
 199,South,0,33,North,0
 # filler area (117) - Raydon Town (33)
@@ -126,28 +112,50 @@
 164,East,0,33,West,66
 # Rochester Trail (76) - Raydon Town (33)
 76,East,0,33,West,23
+# Eversnow Trail (287) - Eversnow Trail (297)
+287,North,5,297,South,0
+# Rochester Trail (171) - Awbah Cliffs (176)
+171,South,0,176,North,307
+# Platoh City (136) - Awbah Cliffs (176)
+136,North,7,176,South,0
+# Snalaska Village (230) - Awbah Cliffs (176)
+230,South,0,176,North,0
+# Erodon Town (227) - Antiqua Path (253)
+227,East,0,253,West,24
+# Marewn Town (92) - Antiqua Path (253)
+92,North,456,253,South,0
+# Laquana Trail (199) - Kolana Path (204)
+199,East,0,204,West,9
+# Kolana Ranch (190) - Kolana Path (204)
+190,West,5,204,East,0
 # Destra Path (194) - Ciucosa Bay (226)
 194,South,36,226,North,0
 # Ciucosa City (202) - Ciucosa Bay (226)
 202,South,0,226,North,92
-# Erodon Town (227) - Erodon Trail (193)
-227,South,0,193,North,3
-# Erodon Trail (535) - Erodon Trail (193)
-535,West,1,193,East,0
-# Rederyl Mansion (455) - Rederyl City (105)
-455,South,4,105,North,0
+# Edgston Town (84) - Rochester Trail (171)
+84,North,0,171,South,6
+# Aydus Road (90) - Rochester Trail (171)
+90,North,39,171,South,0
+# Rochester Trail (76) - Rochester Trail (171)
+76,South,0,171,North,6
 # Briseano Town (94) - Torayra Road (83)
 94,West,0,83,East,56
 # Brisé Ocean (166) - Torayra Road (83)
 166,North,0,83,South,105
-# Zeph Ocean (189) - Torayra Road (83)
-189,North,0,83,South,161
 # Torayra Road (112) - Torayra Road (83)
 112,West,0,83,East,0
+# Zeph Ocean (189) - Torayra Road (83)
+189,North,0,83,South,161
 # Torayra Road (135) - Torayra Road (83)
 135,East,0,83,West,7
-# Briseano Town (94) - filler in the north (281)
-94,North,62,281,South,0
+# filler in the north (281) - Briseano Town (94)
+281,South,0,94,North,62
+# Brisé Ocean (166) - Briseano Town (94)
+166,West,0,94,East,0
+# Torayra Road (112) - Briseano Town (94)
+112,South,0,94,North,0
+# Torayra Road (135) - Briseano Town (94)
+135,South,98,94,North,0
 # Brisé Ocean (166) - filler in the north (281)
 166,North,6,281,South,0
 # Kwao Road (106) - filler in the north (281)
@@ -156,91 +164,81 @@
 189,North,0,281,South,50
 # Kwao Road (109) - filler in the north (281)
 109,South,0,281,North,4
-# Brisé Ocean (166) - Briseano Town (94)
-166,West,0,94,East,0
-# Torayra Road (112) - Briseano Town (94)
-112,South,0,94,North,0
-# Torayra Road (135) - Briseano Town (94)
-135,South,98,94,North,0
-# Edgston Town (84) - Rochester Trail (171)
-84,North,0,171,South,6
-# Aydus Road (90) - Rochester Trail (171)
-90,North,39,171,South,0
-# Rochester Trail (76) - Rochester Trail (171)
-76,South,0,171,North,6
-# Laquana Trail (199) - Kolana Path (204)
-199,East,0,204,West,9
-# Kolana Ranch (190) - Kolana Path (204)
-190,West,5,204,East,0
-# Hidden Base (288) - Eversnow Trail (287)
-288,East,35,287,West,0
-# Snalaska Village (230) - Eversnow Trail (287)
-230,East,0,287,West,64
-# Zeph Ocean (189) - Brisé Ocean (166)
-189,West,0,166,East,0
-# Torayra Road (112) - Brisé Ocean (166)
-112,South,56,166,North,0
-# Lux Strait (305) - Brisé Ocean (166)
-305,West,0,166,East,69
-# Torayra Road (135) - Brisé Ocean (166)
-135,South,154,166,North,0
+# Rederyl Mansion (455) - Rederyl City (105)
+455,South,4,105,North,0
+# Erodon Trail (535) - Erodon Trail (193)
+535,West,0,193,East,0
+# Erodon Town (227) - Erodon Trail (193)
+227,South,0,193,North,15
 # filler area (117) - Laquana Trail (199)
 117,East,0,199,West,53
 # old ignore (164) - Laquana Trail (199)
 164,East,0,199,West,122
 # Rochester Trail (76) - Laquana Trail (199)
 76,East,0,199,West,79
-# Erodon Trail (535) - Erodon Town (227)
-535,West,0,227,East,59
+# Hidden Base (288) - Eversnow Trail (287)
+288,East,35,287,West,0
+# Snalaska Village (230) - Eversnow Trail (287)
+230,East,0,287,West,64
+# Torayra Road (112) - Brisé Ocean (166)
+112,South,56,166,North,0
+# Zeph Ocean (189) - Brisé Ocean (166)
+189,West,0,166,East,0
+# Lux Strait (305) - Brisé Ocean (166)
+305,West,0,166,East,69
+# Torayra Road (135) - Brisé Ocean (166)
+135,South,154,166,North,0
+# Rochester Trail (48) - filler area (117)
+48,West,0,117,East,35
+# Rochester Trail (76) - filler area (117)
+76,North,18,117,South,0
 # Ciucosa City (202) - Destra Path (194)
 202,West,0,194,East,0
 # Marewn Town (92) - Destra Path (194)
 92,East,0,194,West,6
-# Tress Road (101) - Edgston Town (84)
-101,West,0,84,East,7
 # Aydus Road (90) - Edgston Town (84)
 90,East,0,84,West,0
-# Snalaska Village (230) - Edgston Town (84)
-230,South,313,84,North,0
+# Tress Road (101) - Edgston Town (84)
+101,West,0,84,East,7
 # old ignore (164) - Edgston Town (84)
 164,West,52,84,East,0
+# Snalaska Village (230) - Edgston Town (84)
+230,South,313,84,North,0
 # filla (158) - Kwao Road (106)
 158,East,15,106,West,0
 # Marewn Town (92) - Kwao Road (106)
 92,West,19,106,East,0
 # Kwao Road (109) - Kwao Road (106)
 109,East,0,106,West,0
-# Rochester Trail (48) - filler area (117)
-48,West,0,117,East,35
-# Rochester Trail (76) - filler area (117)
-76,North,18,117,South,0
+# Erodon Town (227) - Erodon Trail (535)
+227,South,67,535,North,0
 # Marewn Town (92) - Aydus Road (90)
 92,North,0,90,South,2
-# Snalaska Village (230) - Aydus Road (90)
-230,South,268,90,North,0
 # Rochester Trail (76) - Aydus Road (90)
 76,West,95,90,East,0
+# Snalaska Village (230) - Aydus Road (90)
+230,South,268,90,North,0
 # Lux Strait (305) - Velexia Gulf (310)
 305,East,19,310,West,0
-# Torayra Road (112) - Zeph Ocean (189)
-112,South,112,189,North,0
+# Zeph Ocean (189) - Torayra Road (112)
+189,North,0,112,South,112
 # Lux Strait (305) - Zeph Ocean (189)
 305,North,0,189,South,0
 # Torayra Road (135) - Zeph Ocean (189)
 135,South,210,189,North,0
-# Platoh City (136) - Torayra Road (135)
-136,South,13,135,North,0
 # Kolana Falls (208) - Kolana Ranch (190)
 208,South,3,190,North,0
+# Platoh City (136) - Torayra Road (135)
+136,South,13,135,North,0
 # Platoh City (136) - filler rip (449)
 136,South,0,449,North,0
-# Kwao Road (109) - filla (158)
-109,North,0,158,South,0
 # old ignore (164) - Rochester Trail (48)
 164,East,0,48,West,34
 # Rochester Trail (76) - Rochester Trail (48)
 76,East,9,48,West,0
-# Erodon Outskirts (500) - Asteras Path (301)
-500,0,121,301,703,0
+# Kwao Road (109) - filla (158)
+109,North,0,158,South,0
+# Killamont Path (181) - Asteras Path (301)
+181,0,305,301,629,0
 # Rochester Trail (76) - old ignore (164)
 76,South,40,164,North,0

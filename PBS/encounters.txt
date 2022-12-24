@@ -1488,7 +1488,7 @@ SCOLIPEDE,60,65
 SCOLIPEDE,60,65
 SCOLIPEDE,60,65
 #-------------------------------
-325 # Iriscent Park
+325 # Iriscent Park (OLD)
 25,10,10
 Land
 DUSTOX,33,39
@@ -1517,7 +1517,7 @@ SEAKING,38,43
 STARMIE,38,43
 FEEBAS,38,43
 #-------------------------------
-326 # Iriscent Park
+326 # Iriscent Woods
 25,10,10
 Land
 BEEDRILL,18,23
@@ -1626,7 +1626,7 @@ RELICANTH,55,60
 RELICANTH,55,60
 RELICANTH,55,60
 #-------------------------------
-394 # Castle Armira
+394 # Forgotten Hill
 25,10,10
 Land
 GASTLY,16,20
@@ -1735,7 +1735,7 @@ BAGON,9,13
 BAGON,9,13
 BAGON,9,13
 #-------------------------------
-411 # Lux Cavern
+411 # Mystic Cavern
 25,10,10
 Cave
 GOLBAT,40,50
@@ -1767,7 +1767,7 @@ GIBLE,20,24
 GIBLE,20,24
 GIBLE,20,24
 #-------------------------------
-423 # Iriscent Coast
+423 # Mystic Coast
 25,10,10
 Water
 TENTACRUEL,33,39

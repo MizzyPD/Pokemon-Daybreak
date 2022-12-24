@@ -133,19 +133,19 @@ MapPosition=0,15,8
 MapPosition=0,15,8
 #-------------------------------
 [028]
-# Natural Woods
+# Natural Park
 BattleBack=Forest
 MapPosition=0,16,8
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [029]
-# Natural Woods Entrance
+# Natural Park Entrance
 Bicycle=true
 MapPosition=0,16,8
 #-------------------------------
 [030]
-# Natural Woods Pavillion
+# Natural Park Pavillion
 MapPosition=0,16,8
 #-------------------------------
 [031]
@@ -1033,7 +1033,7 @@ ShowArea=true
 [200]
 # Rederyl Gym
 BattleBack=RedArena
-Weather=Sunny,100
+Weather=Sun,100
 Bicycle=false
 MapPosition=0,24,5
 Outdoor=false
@@ -1467,7 +1467,7 @@ Outdoor=false
 ShowArea=true
 #-------------------------------
 [300]
-# Lacka Cave
+# Lacka Cave (unused)
 MapSize=1,1
 BattleBack=Cave
 Bicycle=true
@@ -1631,7 +1631,7 @@ MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [325]
-# Iriscent Woods
+# Iriscent Park (OLD)
 BattleBack=Darchlight
 Bicycle=true
 MapPosition=0,15,5
@@ -1654,12 +1654,12 @@ Outdoor=false
 ShowArea=true
 #-------------------------------
 [328]
-# Iriscent Woods North Gate
+# Iriscent Woods Gate
 MapPosition=0,15,5
 Outdoor=false
 #-------------------------------
 [329]
-# Iriscent Woods South Gate
+# Iriscent Woods Gate
 MapPosition=0,15,5
 Outdoor=false
 #-------------------------------
@@ -1734,18 +1734,18 @@ MapPosition=0,26,12
 HealingSpot=339,39,22
 #-------------------------------
 [343]
-# Castle Armira
+# Castle Armira Gym
 MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [344]
-# Castle Armira
+# Castle Armira Gym
 BattleBack=IndoorBlack
 MapPosition=0,15,3
 Outdoor=false
 #-------------------------------
 [345]
-# Castle Armira
+# Castle Armira Gym
 BattleBack=IndoorBlack
 MapPosition=0,15,3
 Outdoor=false
@@ -1788,9 +1788,9 @@ ShowArea=true
 MapPosition=0,26,12
 #-------------------------------
 [352]
-# Aquafina Library
-MapPosition=0,26,12
+# Aquafina Institute
 BattleBack=Distortion
+MapPosition=0,26,12
 #-------------------------------
 [353]
 # Aquafina Library
@@ -2006,7 +2006,7 @@ Outdoor=false
 ShowArea=true
 #-------------------------------
 [388]
-# Sealed Chamber
+# Sealed Chamber (unused)
 DiveMap=389
 Bicycle=true
 MapPosition=0,7,16
@@ -2063,7 +2063,7 @@ MapPosition=0,15,1
 Outdoor=false
 #-------------------------------
 [396]
-# Castle Armira
+# Castle Armira (UNUSED)
 BattleBack=IndoorBlack
 MapPosition=0,15,1
 Outdoor=true
@@ -2150,7 +2150,7 @@ Bicycle=true
 MapPosition=0,11,13
 #-------------------------------
 [411]
-# Lux Cavern
+# Mystic Cavern
 MapSize=1,1
 MapPosition=0,4,17
 #-------------------------------
@@ -2218,7 +2218,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [423]
-# Iriscent Coast
+# Mystic Coast
 Bicycle=true
 MapPosition=0,13,4
 Outdoor=true
@@ -2543,7 +2543,7 @@ Outdoor=false
 [483]
 # Bukayo Estate
 MapSize=1,1
-Weather=Sunny,10
+Weather=Sun,10
 Bicycle=true
 MapPosition=1,18,5
 Outdoor=true
@@ -2570,7 +2570,7 @@ Outdoor=false
 [487]
 # Ciris Isle
 MapSize=1,1
-Weather=Sunny,10
+Weather=Sun,10
 Bicycle=true
 MapPosition=1,23,6
 Outdoor=true
@@ -2847,26 +2847,26 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [536]
-# Victory Road PC
+# Victory Road Center
 Bicycle=true
 MapPosition=0,14,17
 Outdoor=false
-ShowArea=false
 HealingSpot=305,142,71
+ShowArea=false
 #-------------------------------
 [537]
-# Iriscent Woods West Gate
+# Iriscent Woods Gate
 MapPosition=0,15,5
 Outdoor=false
 #-------------------------------
 [542]
-# Aquafina Library
+# Aquafina Institute
 MapPosition=0,26,12
 #-------------------------------
 [543]
-# Aquafina Library
+# Aquafina Institute
 MapPosition=0,26,12
 #-------------------------------
 [544]
-# Aquafina Library
+# Aquafina Institute
 MapPosition=0,26,12
