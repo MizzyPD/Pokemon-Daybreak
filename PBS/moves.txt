@@ -755,4 +755,5 @@
 756,BITTERMALICE,Bitter Malice,00A,90,GHOST,Special,100,15,10,00,0,be,"The user attacks its target with spine-chilling resentment. This may also leave the target with freeze." #H Zoro
 757,INFERNALPARADE,Infernal Parade,00C,90,GHOST,Special,100,10,10,00,0,be,"The user attacks with myriad fireballs. This may also leave the target with a burn." # H Typhlosion
 758,WAVECRASH,Wave Crash,0FB,120,WATER,Physical,100,15,0,00,0,abef,"The user shrouds itself in water and slams into the target. This also damages the user quite a lot."
-759,LASTRESPECTS,Last Respects,0FF,50,WATER,Physical,100,10,0,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power."
+759,LASTRESPECTS,Last Respects,0FB,120,GHOST,Physical,100,15,0,00,0,abef,"The user shrouds itself in water and slams into the target. This also damages the user quite a lot."
+761,BULLETSWING,Bullet Swing,099,1,STEEL,Physical,100,10,0,00,0,bef,"The user spins itself like a bullet. The faster the user is than the target, the greater the power." # A Sandridger

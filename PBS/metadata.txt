@@ -2381,7 +2381,7 @@ BattleBack=Underwater
 #-------------------------------
 [452]
 # Armira Region
-BattleBack=XYVolcano
+BattleBack=BlueArena
 #-------------------------------
 [453]
 # Armira Region
