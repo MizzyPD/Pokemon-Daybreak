@@ -85,7 +85,7 @@ BattlerEnemyY=16
 #-------------------------------
 [BLASTOISE-2]
 FormName=Mega Blastoise X
-MegaStone=BLASTOISINITE
+MegaStone=BLASTOISINITEX
 Type1=WATER
 Type2=STEEL
 BaseStats=79,125,140,78,78,130
@@ -216,7 +216,7 @@ Kind=Ghost Flame
 Pokedex=Said to purify lost, forsaken souls with its flames and guide them to the afterlife.
 BattlerEnemyY=4
 #-------------------------------
-[ZORUA-2]
+[ZORUA-1]
 FormName=Hisuian
 Type1=NORMAL
 Type2=GHOST
@@ -227,7 +227,7 @@ Color=White
 Kind=Spiteful Fox
 Pokedex=A once-departed soul, returned to life. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.
 #-------------------------------
-[ZOROARK-2]
+[ZOROARK-1]
 FormName=Hisuian
 Type1=NORMAL
 Type2=GHOST
@@ -1680,10 +1680,6 @@ BattlerEnemyY=12
 [XERNEAS-1]
 FormName=Active Mode
 BattlerPlayerY=0
-#-------------------------------
-[ZOROARK-1]
-FormName=Werewolf
-BattlerEnemyY=4
 #-------------------------------
 [ZYGARDE-1]
 FormName=Zygarde 10% Forme
