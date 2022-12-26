@@ -1,4 +1,19 @@
 ﻿#-------------------------------
+[MILOTIC-1]
+FormName=Mega Milotic
+MegaStone=MILOTICITE
+Type1=WATER
+Type2=FAIRY
+BaseStats=105,60,99,101,125,150
+BaseEXP=189
+EffortPoints=0,0,0,0,0,3
+Abilities=MAGICBOUNCE
+Height=6.4
+Weight=170.5
+BattlerPlayerY=0
+BattlerEnemyY=11
+BattlerAltitude=2
+#-------------------------------
 [VENUSAUR-1]
 FormName=Mega Venusaur Y
 MegaStone=VENUSAURITEY
@@ -196,7 +211,7 @@ Pokedex=It recides by itself, and is extremely competitive. This Pokémon disint
 BattlerEnemyY=15
 #-------------------------------
 [SCEPTILE-3]
-FormName=Mega Armiran
+FormName=Mega Sceptile
 MegaStone=SCEPTILITE
 Type1=POISON
 Type2=DARK
