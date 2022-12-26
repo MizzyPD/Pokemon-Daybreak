@@ -757,3 +757,4 @@
 758,WAVECRASH,Wave Crash,0FB,120,WATER,Physical,100,15,0,00,0,abef,"The user shrouds itself in water and slams into the target. This also damages the user quite a lot."
 759,LASTRESPECTS,Last Respects,210,50,GHOST,Physical,100,10,0,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power."
 761,BULLETSWING,Bullet Swing,099,1,STEEL,Physical,100,10,0,00,0,bef,"The user spins itself like a bullet. The faster the user is than the target, the greater the power." # A Sandridger
+762,KOWTOWCLEAVE,Kowtow Cleave,0A5,85,DARK,Physical,0,10,0,00,0,abef,"The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
