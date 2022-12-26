@@ -18434,7 +18434,7 @@ Pokedex=Bisharp pursues prey in the company of a large group of Pawniard. Then B
 BattlerPlayerY=0
 BattlerEnemyY=17
 BattlerAltitude=0
-Evolutions=
+Evolutions=KINGAMBIT,NightHoldItem,AEGISSHIELD
 #-------------------------------
 [626]
 Name=Bouffalant
@@ -27001,11 +27001,12 @@ Evolutions=AFROGADIER,Level,16
 Name=Frogadier
 InternalName=AFROGADIER
 Type1=DARK
+Type2=FIRE
 BaseStats=54,83,52,97,63,56
 GenderRate=FemaleOneEighth
 GrowthRate=Parabolic
 BaseEXP=142
-EffortPoints=0,0,0,2,0,0
+EffortPoints=0,2,0,0,0,0
 Rareness=45
 Happiness=70
 Abilities=BLAZE
@@ -27583,3 +27584,14 @@ BattlerPlayerY=0
 BattlerEnemyY=26
 BattlerAltitude=7
 Evolutions=
+#-------------------------------
+[943]
+Name=Kingambit
+InternalName=KINGAMBIT
+Type1=DARK
+Type2=STEEL
+BaseStats=100,135,120,50,60,85
+GenderRate=Female50Percent
+GrowthRate=Medium
+BaseEXP=172
+EffortPoints=0,3,0,0,0,0
