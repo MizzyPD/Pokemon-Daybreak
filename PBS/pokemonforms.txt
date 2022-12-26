@@ -195,6 +195,7 @@ Height=1.2
 Weight=55.0
 BattlerPlayerY=6
 BattlerEnemyY=17
+Evolutions=SANDRIDGER,Location,298
 #-------------------------------
 [GROVYLE-2]
 FormName=Infected Form
