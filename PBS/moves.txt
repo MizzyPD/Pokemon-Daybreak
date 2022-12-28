@@ -746,7 +746,7 @@
 747,NECROPUNCH,Necro Punch,0DD,75,GHOST,Physical,100,10,0,00,0,abefj,"A life-sucking punch. The user's HP is restored by half the damage taken by the target." #Unreleased
 748,AROMAJAB,Aroma Jab,00F,90,GRASS,Physical,100,15,30,00,0,abef,"The target is jabbed by a grassy fist. This may also make the target flinch." # Unreleased
 749,SKYSTRIKE,Sky Strike,000,85,FLYING,Physical,90,35,0,00,0,abef,"A physical attack in which the user dives from the sky into the target." #New physical move for flying types since there arent many
-750,GHOSTLYVENOM,Ghostly Venom,005,90,GHOST,Special,100,10,30,00,0,be,"The user attacks the target with a ghostly venom. This may also poison the target." #Venusaur Exclusive
+750,GHOSTLYVENOM,Poltervenom,005,90,GHOST,Special,100,10,30,00,0,be,"The user attacks the target with a ghostly venom. This may also poison the target." #Venusaur Exclusive
 751,SHELLSIDEARM,Shell Side Arm,000,90,POISON,Special,100,10,20,00,0,bef,"This move inflicts physical or special damage, whichever will be more effective. This may also poison the target."
 752,POSE,Pose,001,0,NORMAL,Status,0,60,0,00,0,l,"The user remains in a pose, effectively doing nothing at all."
 753,FROSTRUSH,Frost Rush,00F,90,ICE,Physical,90,10,10,00,0,be,"The user glaciates itself and charges at the target to cause damage. The target may flinch." #New Ice move
@@ -758,3 +758,4 @@
 759,LASTRESPECTS,Last Respects,210,50,GHOST,Physical,100,10,0,00,0,abef,"The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power."
 761,BULLETSWING,Bullet Swing,099,1,STEEL,Physical,100,10,0,00,0,bef,"The user spins itself like a bullet. The faster the user is than the target, the greater the power." # A Sandridger
 762,KOWTOWCLEAVE,Kowtow Cleave,0A5,85,DARK,Physical,0,10,0,00,0,abef,"The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
+763,TASERSTRIKE,Taser Strike,A07,100,ELECTRIC,Physical,100,5,0,00,0,abef,"The user tazes the opponent with its tail. This move will ignore the target's Ability."
