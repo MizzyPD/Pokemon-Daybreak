@@ -1033,7 +1033,7 @@ ShowArea=true
 [200]
 # Rederyl Gym
 BattleBack=RedArena
-Weather=Sun,100
+Weather=Sunny,100
 Bicycle=false
 MapPosition=0,24,5
 Outdoor=false
@@ -2543,7 +2543,7 @@ Outdoor=false
 [483]
 # Bukayo Estate
 MapSize=1,1
-Weather=Sun,10
+Weather=Sunny,10
 Bicycle=true
 MapPosition=1,18,5
 Outdoor=true
@@ -2570,7 +2570,7 @@ Outdoor=false
 [487]
 # Ciris Isle
 MapSize=1,1
-Weather=Sun,10
+Weather=Sunny,10
 Bicycle=true
 MapPosition=1,23,6
 Outdoor=true
@@ -2870,3 +2870,12 @@ MapPosition=0,26,12
 [544]
 # Aquafina Institute
 MapPosition=0,26,12
+#-------------------------------
+[546]
+# Hall of Gods
+ShowArea=true
+#-------------------------------
+[547]
+# Hall of Gods
+BattleBack=Distortion
+ShowArea=true

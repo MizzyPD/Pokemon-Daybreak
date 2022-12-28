@@ -751,7 +751,7 @@
 752,POSE,Pose,001,0,NORMAL,Status,0,60,0,00,0,l,"The user remains in a pose, effectively doing nothing at all."
 753,FROSTRUSH,Frost Rush,00F,90,ICE,Physical,90,10,10,00,0,be,"The user glaciates itself and charges at the target to cause damage. The target may flinch." #New Ice move
 754,FLIPTURN,Flip Turn,0EE,70,WATER,Physical,100,20,0,00,0,abef,"After making their attack, the user rushes back to switch places with a party Pokémon in waiting."
-755,BLAZINGSHURIKEN,Blazing Shuriken,0C0,25,FIRE,Physical,100,30,0,00,0,bef,"The user flings blazing shurikens at the target two to five times in a row." # A gren
+755,BLAZINGSHURIKEN,Blazing Shuriken,0C0,30,FIRE,Physical,100,30,0,00,0,bef,"The user flings blazing shurikens at the target two to five times in a row." # A gren
 756,BITTERMALICE,Bitter Malice,00A,90,GHOST,Special,100,15,10,00,0,be,"The user attacks its target with spine-chilling resentment. This may also leave the target with freeze." #H Zoro
 757,INFERNALPARADE,Infernal Parade,00C,90,GHOST,Special,100,10,10,00,0,be,"The user attacks with myriad fireballs. This may also leave the target with a burn." # H Typhlosion
 758,WAVECRASH,Wave Crash,0FB,120,WATER,Physical,100,15,0,00,0,abef,"The user shrouds itself in water and slams into the target. This also damages the user quite a lot."

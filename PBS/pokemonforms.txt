@@ -1302,6 +1302,10 @@ Type1=DARK
 [ARCEUS-17]
 Type1=FAIRY
 #-------------------------------
+[ARCEUS-18]
+Type1=NORMAL
+Abilities=PROTEAN
+#-------------------------------
 [GRENINJA-1]
 FormName=Mega Armiran Greninja
 MegaStone=GRENINJITE

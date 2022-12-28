@@ -773,3 +773,4 @@
 1159,JEWELLERY,Jewellery Box,Jewellery Boxes,8,0,"A jewellery box belonging to an old woman in Aquafina City.",0,0,6,
 1160,CLUBCARD,Club Card,Club Cards,8,0,"A member's card for a Trainer's Club. Belongs to someone in Rederyl City.",0,0,6,
 927,MILOTICITE,Miloticite,Miloticites,6,10000,"One of the mysterious Mega Stones. Have Milotic hold it, and this stone will enable it to Mega Evolve in battle.",0,0,12,
+928,DAYBREAKPLATE,Daybreak Plate,Daybreak Plates,1,0,"An item to be held by Arceus. It is a stone tablet that transforms the users form.",0,0,0,
