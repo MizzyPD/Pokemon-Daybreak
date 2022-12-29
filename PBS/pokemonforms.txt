@@ -212,7 +212,7 @@ Pokedex=It recides by itself, and is extremely competitive. This Pokémon disint
 BattlerEnemyY=15
 #-------------------------------
 [SCEPTILE-3]
-FormName=Mega Sceptile
+FormName=Mega Armiran
 MegaStone=SCEPTILITE
 Type1=POISON
 Type2=DARK
