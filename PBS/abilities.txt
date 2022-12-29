@@ -265,3 +265,4 @@
 265,DRAGONSMAW,Dragon's Maw,"Powers up Dragon-type moves."
 266,QUICKDRAW,Quick Draw,"Enables the Pokémon to move first occasionally."
 267,SUPREMEOVERLORD,Supreme Overlord,"When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated."
+268,DRACONATE,Draconate,"Boosts its Normal moves, making them Dragon-type."
