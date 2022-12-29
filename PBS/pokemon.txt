@@ -14654,6 +14654,7 @@ Height=3.2
 Weight=320.0
 Color=White
 Shape=8
+RegionalNumbers=408
 Kind=Alpha
 Pokedex=It is told in mythology that this Pokémon was born before the universe even existed.
 FormName=Arceus
