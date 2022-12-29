@@ -759,3 +759,4 @@
 761,BULLETSWING,Bullet Swing,099,1,STEEL,Physical,100,10,0,00,0,bef,"The user spins itself like a bullet. The faster the user is than the target, the greater the power." # A Sandridger
 762,KOWTOWCLEAVE,Kowtow Cleave,0A5,85,DARK,Physical,0,10,0,00,0,abef,"The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
 763,TASERSTRIKE,Taser Strike,A07,100,ELECTRIC,Physical,100,5,0,00,0,abef,"The user tazes the opponent with its tail. This move will ignore the target's Ability."
+764,TRAILBLAZE,Trailblaze,01F,50,GRASS,Physical,100,20,100,00,0,abefm,"Cloaked in flames, the user attacks. Building up power, the user raises their Speed stat."

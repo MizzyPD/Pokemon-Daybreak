@@ -266,3 +266,4 @@
 266,QUICKDRAW,Quick Draw,"Enables the Pokémon to move first occasionally."
 267,SUPREMEOVERLORD,Supreme Overlord,"When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated."
 268,DRACONATE,Draconate,"Boosts its Normal moves, making them Dragon-type."
+269,CLINGYFUR,Clingy Fur,"An item it holds cannot be stolen or knocked off."

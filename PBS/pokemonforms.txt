@@ -295,8 +295,8 @@ FormName=Mega Armiran
 Type1=DRAGON
 Type2=FAIRY
 MegaStone=GARCHOMPITE
-BaseStats=108,150,95,102,150,105
-Abilities=DRACONATE
+BaseStats=108,150,100,92,150,110
+Abilities=COTTONDOWN
 #-------------------------------
 [VULPIX-1]
 FormName=Alola Form
