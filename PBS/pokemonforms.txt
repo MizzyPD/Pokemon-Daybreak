@@ -1303,7 +1303,9 @@ Type1=DARK
 Type1=FAIRY
 #-------------------------------
 [ARCEUS-18]
+FormName=Daybreak Arceus
 Type1=NORMAL
+Type2=GHOST
 Abilities=PROTEAN
 #-------------------------------
 [GRENINJA-1]
