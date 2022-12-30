@@ -5,13 +5,10 @@ MegaStone=MILOTICITE
 Type1=WATER
 Type2=FAIRY
 BaseStats=105,60,99,101,125,150
-BaseEXP=189
 EffortPoints=0,0,0,0,0,3
 Abilities=MAGICBOUNCE
 Height=6.4
 Weight=170.5
-BattlerPlayerY=0
-BattlerEnemyY=11
 BattlerAltitude=2
 #-------------------------------
 [VENUSAUR-1]
@@ -222,15 +219,6 @@ BattlerEnemyY=11
 #-------------------------------
 [TYPHLOSION-1]
 FormName=Hisuian
-Type1=FIRE
-Type2=GHOST
-BaseStats=73,84,78,95,119,85
-Moves=1,HEX,1,DOUBLEEDGE,1,GYROBALL,1,TACKLE,1,LEER,1,SMOKESCREEN,1,EMBER,6,SMOKESCREEN,10,EMBER,13,QUICKATTACK,20,FLAMEWHEEL,24,DEFENSECURL,31,SWIFT,35,FLAMECHARGE,43,SHADOWBALL,48,FLAMETHROWER,56,INFERNALPARADE,61,ROLLOUT,69,DOUBLEEDGE,74,BURNUP,82,ERUPTION
-Height=1.6
-Weight=69.7
-Kind=Ghost Flame
-Pokedex=Said to purify lost, forsaken souls with its flames and guide them to the afterlife.
-BattlerEnemyY=4
 #-------------------------------
 [ZORUA-1]
 FormName=Hisuian
@@ -238,7 +226,6 @@ Type1=NORMAL
 Type2=GHOST
 BaseStats=35,60,40,70,85,40
 Moves=1,SCRATCH,1,LEER,4,TORMENT,6,SNARL,8,HONECLAWS,11,SWIFT,12,SHADOWSNEAK,16,BITTERMALICE,20,SLASH,24,SHADOWCLAW,28,FAKETEARS,32,NASTYPLOT
-EggMoves=
 Color=White
 Kind=Spiteful Fox
 Pokedex=A once-departed soul, returned to life. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.
@@ -292,9 +279,9 @@ Moves=0,CRUNCH,1,CRUNCH,1,DUALCHOP,1,FIREFANG,1,TACKLE,1,SANDATTACK,1,DRAGONRAGE
 #-------------------------------
 [GARCHOMP-3]
 FormName=Mega Armiran
+MegaStone=GARCHOMPITE
 Type1=DRAGON
 Type2=FAIRY
-MegaStone=GARCHOMPITE
 BaseStats=108,150,100,92,150,110
 Abilities=COTTONDOWN
 #-------------------------------
@@ -509,11 +496,6 @@ BaseStats=75,130,140,95,25,85
 Abilities=QUICKFEET,EARTHEATER
 HiddenAbility=SLUSHRUSH
 Moves=0,CRUSHCLAW,1,CRUSHCLAW,1,SCRATCH,1,DEFENSECURL,1,SANDATTACK,1,GYROBALL,3,SANDATTACK,5,GYROBALL,7,ICEBALL,9,RAPIDSPIN,11,FURYCUTTER,14,ICESHARD,17,SWIFT,20,FURYSWIPES,24,ICICLESPEAR,28,SLASH,33,DIG,38,BULLETSWING,42,METALCLAW,45,SWORDSDANCE,48,IRONDEFENSE,50,HAIL,55,EARTHQUAKE,60,FROSTRUSH
-Height=1.5
-Weight=55.5
-BattlerPlayerY=0
-BattlerEnemyY=10
-BattlerAltitude=0
 #-------------------------------
 [KANGASKHAN-1]
 FormName=Mega Kangaskhan
@@ -2485,7 +2467,7 @@ Type1=ELECTRIC
 Type2=FIRE
 BaseStats=62,55,52,139,149,124
 Abilities=CHLOROPHYLL
-BattlerEnemyY=6
+BattlerEnemyY=9
 #-------------------------------
 [PAERODACTYL-1]
 FormName=Mega Aerodactyl

@@ -27050,7 +27050,7 @@ RegionalNumbers=57
 Kind=Fire Ninja
 Pokedex=It appears and vanishes with a ninja’s grace. It toys with its enemies by camoflaguing itself with smoke.
 BattlerPlayerY=0
-BattlerEnemyY=19
+BattlerEnemyY=11
 BattlerAltitude=0
 Evolutions=
 #-------------------------------
