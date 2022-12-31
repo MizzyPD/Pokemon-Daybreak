@@ -73,34 +73,34 @@
 70,ELITEFOUR_Lance,Elite Four,100,Battle Elite,,,Male,,
 71,CHAMPION,Champion,100,[GBA] FRLG - Battle! vs Rival (Final),[GBA] RSE - Victory! Champion,,Male,,Nowswitch
 72,SZ,Squad Zero,32,[GBA] RSE - Battle! vs Magma & Aqua Grunt,Victory! Team Magma,frlg_trainerbadintro,Male,,
-73,GL1,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,
+73,GL1,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,
 74,RD,Rival,100,[GBA-style] Battle! vs Rival (Gen4),,,Male,,
 75,SZF,Squad Zero,32,[GBA] RSE - Battle! vs Magma & Aqua Grunt,Victory! Team Magma,frlg_trainerbadintro,Female,,
 76,SZDUB,Squad Zero,32,[GBA] RSE - Battle! vs Magma & Aqua Grunt,Victory! Team Magma,,Male,,
-82,GL2,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
+82,GL2,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
 83,PR,Evil Team Leader,100,[GBA-style] Battle! vs Galactic Boss Cyrus,,,Male,,
 84,PR2,Agent Zero,100,Project Zephyr Battle! VS Team Crypt Leader New Gen. (Fanmade),,,Male,,
-85,GL3,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
+85,GL3,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
 86,EXPLORER,Explorer,16,,,frlg_trainerboyintro,Male,,
 87,ASSISTANT,Assistant,32,,,frlg_trainerboyintro,Male,,Noswitch
 88,ADMIN1,Admin,100,[GBA] RSE - Battle! vs Admin Maxie and Archie (Enhanced),Victory! Team Magma,,Female,,
 89,L,Legend,100,legendary theme DP GBA,,,Male,,
-90,GL4,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Rainteam
-91,GL5,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
+90,GL4,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Rainteam
+91,GL5,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
 92,SHADOW,Shadow,64,,,frlg_trainerboyintro,Male,,
 93,PAINTERM,Painter,16,,,frlg_trainerboyintro,Male,,
 94,EMPLOYEE,Employee,32,,,frlg_trainerboyintro,Male,,
 95,PPO,Power Plant Owner,100,,,,Female,,
 96,PD,Plugdev test,100,Primal Dialga GBA,,,Male,,
-97,GL6,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,
+97,GL6,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,
 98,PSYCHIC,Psychic,45,,,,Male,,
 99,ADMIN2,Admin,100,[GBA] RSE - Battle! vs Admin Maxie and Archie (Enhanced),Victory! Team Magma,,Male,,
-100,GL7,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
+100,GL7,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Male,,
 101,GUITARIST,Guitarist,32,,,rse_trainerintrocool.ogg,Male,,
 102,ASSISTANTF,Assistant,32,,,frlg_trainergirlintro,Female,,Noswitch
 121,SNOW,Arctic Ace,75,,,rse_trainerintrocool.ogg,Male,,
-199,GL9,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Spikes
-200,GL10,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Spikes
+199,GL9,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Spikes
+200,GL10,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Spikes
 211,SNOWBOARDER,Snowboarder,63,,,frlg_trainerboyintro,Male,,
 212,FIREBREATHER,Kindler,63,,,frlg_trainerboyintro,Male,,
 213,SNOWBOARDER_F,Snowboarder,63,,,rse_trainerintrogirl,Female,,
@@ -109,7 +109,7 @@
 317,FORMIDABLE,Elite Four,100,[GBA] RSE - Battle! vs Elite Four (Enhanced),[GBA] RSE - Victory! Gym Leader,,Male,,
 318,FEAR,Elite Four,100,[GBA] RSE - Battle! vs Elite Four (Enhanced),[GBA] RSE - Victory! Gym Leader,,Female,,
 319,FINAL,Champion,100,[GBA-style] DPPt - Battle! vs Cynthia,[GBA] RSE - Victory! Champion,,Female,,
-320,GL8,Gym Leader,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Sunteam
+320,GL8,Gym Leader,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,frlg_tensebeforebattle,Female,,Sunteam
 321,MINER,Miner,32,,,frlg_trainerboyintro,Male,,
 322,ACETRAINER,Ace Trainer,63,,,rse_trainerintrocool.ogg,Male,,
 323,BATTLEGIRL,Battle Girl,63,,,frlg_trainergirlintro,Female,,
@@ -136,7 +136,7 @@
 344,GABRIEL,Rival,100,[GBA-style] SwSh - Battle! vs Avery,,,Male,,NoswitchRainteam
 345,ELISA,Rival,100,[GBA-style] SwSh - Battle! vs Avery,,,Female,,Rainteam
 346,RED,Pkmn Trainer,100,[GBA-style] HGSS - Battle! vs Champion Lance,[GBA] RSE - Victory! Champion,,Male,,Nowswitch
-347,SIERRA,Seafarer,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,,Female,,Noswitch
+347,SIERRA,Seafarer,100,[GBA-style] DPPt - Battle! vs Elite Four,[GBA] RSE - Victory! Gym Leader,,Female,,Noswitch
 
 # [GBA-Style] B and W - Battle! vs Elite Four
 #--------------------------
