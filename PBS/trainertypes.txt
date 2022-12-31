@@ -123,7 +123,7 @@
 331,TOWER,Tower President,200,Battle! Frontier Brain,,,Female,,
 332,PALACE,Palace Maven,200,Battle! Frontier Brain,,,Female,,
 333,DEVRAZ,Developer,200,Battle! vs Champion Steven,[GBA] RSE - Victory! Champion,,Male,,
-334,DEVMIZ,Developer,200,Battle! Frontier Brain,[GBA] RSE - Victory! Champion,,Male,,Spikes
+334,DEVMIZ,Developer,200,[GBA-style] Fate of Sixty Years,[GBA] RSE - Victory! Champion,,Male,,Spikes
 335,BEAUTY2,Beauty,45,,,frlg_trainergirlintro,Female,,
 336,MALLOW,Trial Captain,200,[GBA-style] SuMo - Battle! vs Trial Captain,,,Female,,
 337,ZINNIA,Lorekeeper,200,[GBA-Style] ORAS - Battle! vs Lorekeeper Zinnia,,,Female,,
@@ -136,7 +136,7 @@
 344,GABRIEL,Rival,100,[GBA-style] SwSh - Battle! vs Avery,,,Male,,NoswitchRainteam
 345,ELISA,Rival,100,[GBA-style] SwSh - Battle! vs Avery,,,Female,,Rainteam
 346,RED,Pkmn Trainer,100,[GBA-style] HGSS - Battle! vs Champion Lance,[GBA] RSE - Victory! Champion,,Male,,Nowswitch
-347,SIERRA,Seafarer,100,[GBA-Style] Fate of Sixty Years,[GBA] RSE - Victory! Gym Leader,,Female,,Noswitch
+347,SIERRA,Seafarer,100,[GBA-style] Suew Foughten Field,[GBA] RSE - Victory! Gym Leader,,Female,,Noswitch
 
 # [GBA-Style] B and W - Battle! vs Elite Four
 #--------------------------
