@@ -2582,3 +2582,19 @@ Weight=0.5
 Color=White
 BattlerEnemyY=29
 Evolutions=CURSOLA,Level,38
+#-------------------------------
+[WOOPER-1]
+FormName=Paldean Wooper
+Type1=POISON
+Type2=GROUND
+Abilities=POISONPOINT,WATERABSORB
+HiddenAbility=UNAWARE
+Moves=1,MUDSHOT,1,TAILWHIP,4,TACKLE,5,POISONTAIL,12,TOXICSPIKES,16,SLAM,21,YAWN,24,POISONJAB,28,SLUDGEWAVE,32,AMNESIA,36,TOXIC,40,EARTHQUAKE
+EggMoves=DOUBLEKICK,MIST,COUNTER,RECOVER,HAZE,CURSE,ANCIENTPOWER,STOCKPILE,SPITUP,SWALLOW,ACIDSPRAY,AFTERYOU
+Compatibility=Water1,Field
+StepsToHatch=5355
+Height=0.4
+Weight=11
+Color=Brown
+Pokedex=After losing a territorial struggle, Wooper began living on land, developing a poisonous film to protect its body.
+Evolutions=CLODSIRE,Level,25
