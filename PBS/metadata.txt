@@ -2859,6 +2859,27 @@ ShowArea=false
 MapPosition=0,15,5
 Outdoor=false
 #-------------------------------
+[538]
+# Victory Road 1F
+MapPosition=0,15,17
+Outdoor=false
+ShowArea=true
+BattleBack=CaveNEW
+#-------------------------------
+[539]
+# Victory Road 2F
+MapPosition=0,15,17
+Outdoor=false
+ShowArea=true
+BattleBack=CaveNEW
+#-------------------------------
+[540]
+# Victory Road 3F
+MapPosition=0,15,17
+Outdoor=false
+ShowArea=true
+BattleBack=CaveNEW
+#-------------------------------
 [542]
 # Aquafina Institute
 MapPosition=0,26,12
@@ -2879,3 +2900,36 @@ ShowArea=true
 # Hall of Gods
 BattleBack=Distortion
 ShowArea=true
+#-------------------------------
+[548]
+# South Armiran Ocean
+MapPosition=1,5,12
+ShowArea=true
+DiveMap=549
+#-------------------------------
+[549]
+# Underwater
+MapPosition=1,5,12
+BattleBack=Underwater
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[550]
+# Underwater
+MapPosition=1,5,12
+BattleBack=Underwater
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[551]
+# Temple of the Sea
+MapPosition=1,5,12
+ShowArea=true
+DiveMap=550
+Outdoor=false
+#-------------------------------
+[552]
+# Temple of the Sea
+MapPosition=1,5,12
+BattleBack=LH
+Outdoor=false
