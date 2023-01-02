@@ -173,7 +173,7 @@
 173,FLOWERVEIL,Flower Veil,"Protects allied Grass-types' status and stats."
 174,FURCOAT,Fur Coat,"This Pokémon's Defense stat is doubled in battle."
 175,GALEWINGS,Gale Wings,"It gains priority on its Flying moves if at full HP."
-176,GOOEY,Gooey,"Lowers the Speed stat of any attacker on contact."
+176,GOOEY,Fairy Dust,"Lowers the Speed stat of any attacker on contact."
 177,GRASSPELT,Grass Pelt,"Grassy Terrain increases this Pokémon's Defense."
 178,MAGICIAN,Magician,"Damaging a target directly also steals its held item."
 179,MEGALAUNCHER,Mega Launcher,"Boosts its pulse-based moves and Aura Sphere."

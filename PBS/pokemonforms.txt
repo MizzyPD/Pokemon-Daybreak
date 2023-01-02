@@ -283,7 +283,7 @@ MegaStone=GARCHOMPITE
 Type1=DRAGON
 Type2=FAIRY
 BaseStats=108,150,100,92,150,110
-Abilities=COTTONDOWN
+Abilities=GOOEY
 #-------------------------------
 [VULPIX-1]
 FormName=Alola Form
