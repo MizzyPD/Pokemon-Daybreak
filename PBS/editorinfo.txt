@@ -1,4 +1,0 @@
-[POKEDEXES]
-pokedex1=Armira Pokédex
-pokedex2=Isles Pokédex
-
