@@ -1,86 +1,371 @@
-V1.7 Credits
+The following are credits for the various assets used in Pokemon Daybreak. 
 
-Carole and Anarlaurendil
-PokéTunes Nick
-Zein
-ekat
-heartlessdragoon
-vurtax
-magnetixm
-RadicalRaptr + Eli
-kingofthe-x-roads
-spaceemotion
-lichenprincess
-phyromatical
-King Tapir
-Angelkitsune
-Limitdistortion
-idilio
-robloxmaster376
-DeepBlue PacificWaves
-Lucidious89
-Ploaj
-Weibrot
-Kobi2604 
-dirkriptide
-Shashu-Greninja
-Mr. Gela
-Defa
-Acanthite Team
-Palladium Forums
-Larryturbo
-Princess-Phoenix
-Kidkatt
-Zender1752
-SageDeoxys
-bo4p5687
-silversail 
-French-Cyndaquil
-theluiz
-eparagon
-Z-nogyroP
-zlolxd
-elazulmax
-mangamanga
-VanillaSunshine
-MrDollSteak
-Spherical-Ice
-Various contributors to the Gen VI, VII, and IX: DS-Style 64x64 Pokemon Sprite Resource
-falcary
-sehitam-hitam
-Crystalmystria#0020
-Solartile
-Phantombass
-Haku
-BiggusWeeabus
-Mike / Productiepoes
-darklight177
-Loafus22
-heroalistar
-Samurux
-AltariaAudio
-Aprogergly
-TechSkylander1658
-Dr. Bleh
-GreatTitan3
-s###a## #9898
-Terryman
-caruban
-mak
-scep
-Loafus022
-lennybitao
-NanaelJustice
-Nickblorck
-Dreadwing93
-aki
-Prodigal96
-MM980
-44tim44
-Gnomowladny
-Nozu
-MetalFlygon
-Zygoat
-wolfpp
-ChromusSama
-briochee
+The vast majority of these names are because direct work was used, but some people were credited because I used their work in previous dev versions, or
+because I got inspiration from their work whether I used it or not, and I don't think the final game would be the way it is without me seeing their work,
+so I believe they should get credit for the creative processes of the game's development even if their final works weren't used.
+
+Pokemon Essentials was used for the project, so full credits to the creators (although I do specifically mention Maruno below for his help with things I scripted)
+
+### MUSIC ###
+   Jobless Music
+   MezmerKaiser
+   Nintendo, The Pokemon Company
+   Chun Soft
+   FL.Remix
+   Hanksterman
+   Pokeli
+   Sela42
+   LukeeGD
+   Half Pixel
+   UberTuberBackPacker
+   RetroSpecter
+   ViziVoir
+   KecleonTencho(arugurete)
+   Raitsu
+   Monopoly Rubix
+   Helvetica
+   MC Bomber 
+   Nanashima (specifically this original composition: https://www.youtube.com/watch?v=hELhNGeuvmo) 
+   Xencleamas
+   A Young, Dancing Moon
+   bauerklos music
+   Bliitzit
+   recordreader
+   Malik the Hedgehog
+   Alpha Remaster
+   raZ
+   iteachvader (for the .sf2 of Pokemon Emerald)
+   EesrekYT
+   Pokemon Reborn Team
+   PokéTunes Nick
+   ND Music
+   AltariaAudio 
+   Terryman
+   
+   
+
+### GRAPHICS ###
+
+   #------- UI (includes battlebgs) -------#
+   Luka S.J.
+   FL
+   Scyl 
+   Solar Light / Lunar Dark Team (for battle scene info gfx, I use the same EXP bar resolution and looked at their health UI when making mine)
+   phoenixoflight92
+   raZ
+   Mizzy
+   seiyouh
+   Akizakura16
+   JcFerggy
+   SoaringSkies0
+   enterbrain
+   kWharever
+   carchagui
+   Midnitez-REMIX
+   Magiscarf
+   Kyle-Dove
+   aveontrainer
+   Zerokid
+   DeepBlue PacificWaves
+   Shashu-Greninja
+   Tommaniacal
+   Weibrot
+   Kobi2604
+   dirkriptide
+   Ploaj
+   silversail
+
+   
+   #------- Animations -------#
+   Pokemon Reborn Team
+   boonzeet
+   mej71
+   raZ
+   Luka S.J.
+   Mr. Gela
+   pret
+
+   #------- Trainers -------#
+   Akuma-Tsubasa
+   Tsunfished
+   Drawnamu
+   ShinySeabass
+   buddyguyman
+   raZ
+   Assassannerr
+   Mizzy
+   Pokecomicnewb
+   RichardPT
+   SilentNinja
+   ShiningStar5022
+   Litera-sure
+   Pokemon Reborn Team
+   TSR
+   duncapham
+   Furs the Fox
+   SuperAngel502
+   PurpleZaffre
+   academico95
+   Mashirosakura
+   Young-Dante
+   Nintendo, The Pokemon Company
+   Gamefreak
+   starsparkless
+   Mediocre-Mel
+   mickelpickelyt
+   kangaflora
+   Kaleriodion
+   CalculusNova
+   aveontrainer
+   Nephae
+   oniwanbashu
+   Cerulebell
+   Pokesho
+   Reign
+   Dragoon (Rotom sprites, not trainer)
+   castiboy
+   polloron
+   xavs-pixels
+   Keh-ven
+   Levaine
+   Tebited15
+   Lolw3e932
+   soulcaliburfan
+   Poltergeist
+   saf3haven
+   CoffeeCup
+   RadicalRaptr
+   PKMNTrainerSpriterC
+   afo2006
+   Tristantine The Great
+   falcary
+   mechanicalape646
+   Mashirosakura
+   magnetixm
+   RadicalRaptr 
+   Eli
+   idiliO
+   robloxmaster376
+
+
+   #------- Pokemon -------#
+   Snewper - yep, top of the list for you. PURPLE KECK.
+   Nozu
+   iiPudd1ng
+   Kalalokki
+   Pixelheim
+   RadicalCharizard
+   NoelleMBrooks
+   Anarlaurendil
+   Carole
+   Mizzy
+   eevee151
+   mej71
+   Magic-Purple-Hermit
+   maicerochico
+   Oroshibu
+   Nintendo, The Pokemon Company
+   Gamefreak
+   GeoisEvil
+   aXI
+   TeraVolt
+   PKMN-PYRO
+   Neslug - for the RSE move anims, I used the resource to add to the Mega Lapras sprite
+   Jorjais RH
+   lucas_candal
+   Quanyails
+   Nathaniel98643
+   cyrecyri
+   TheAetherPlayer
+   Wobblebuns
+   RedRooster
+   Wyverii
+   princessofmusic
+   Basic Vanillite
+   TheCynicalPoet
+   Layell
+   Arkeis
+   paintseagull
+   Siiilver
+   N-kin
+   Branflakes325
+   Legitimate Username
+   Sleet
+   Zermonious
+   Bynine
+   CoolStoryBoat
+   Galifia
+   Corson
+   TrainerSplash
+   Farriella
+   Noscium
+   ThatGuyYouKnow
+   Mos_Quitoxe
+   Dleep
+   WPS
+   Brylark
+   Kyuzeth
+   frenzyplant
+   lucas_candal
+   leParagon
+   KingOfThe-X-Roads
+   Wednesday
+   SageDeoxys
+   Bonus_Level
+   LimitDistortion
+   darklight177
+   Loafus22
+   Larryturbo
+   Princess-Phoenix
+   Kidkatt
+   Zender1752
+   Various contributors to the Gen VI, VII, and IX: DS-Style 64x64 Pokemon Sprite Resource
+   BiggusWeeabus
+   Mike / Productiepoes
+   Dreadwing93
+   Prodigal96
+   MM980
+   44tim44
+   Gnomowladny
+   MetalFlygon
+   Zygoat
+   WolfPP
+   lichenprincess
+   ChromusSama
+   briochee
+   Mak
+   Scep
+   KRLW890
+   Loafus022
+   Sopita_Yorita
+   lennybitao
+   Travis
+   MrEoncito
+   IDesbas/Angy
+   I'mBadAtStuff
+   SkidMarc25
+   Mesayas
+   PorousMist32
+   Azria
+   Mashirosakura
+   aR0y2810
+   Katten 
+   Potatoo
+   Nickblorck
+   sehitam-hitam
+   VanillaSunshine
+   elazulmax
+   zlolxd
+   Z-nogyroP
+   French-Cyndaquil
+   
+   
+   #------- Tiles -------#
+   raZ
+   Pokemon Reborn Team
+   Pokemon Rejuvenation Team
+   Nintendo, The Pokemon Company
+   Gamefreak
+   WesleyFG
+   Michael
+   Leilou
+   Ekat
+   ditto209
+   jyadaha2
+   Andrea87sky
+   ditto209
+   vulvoch
+   LogiedanT-T
+   JohtoBlaziken (not sure where he pulled the tiles from though)
+   Unknown (whoever created the GBA johto tileset, I can't find the original. I got from a file index for a repository that no longer exists)
+   WillowWhips
+   PkmnAlexandrite
+   Pablus94
+   ditto209
+   Marcosik1992
+   Phyromatical
+   Alistair
+   Zeikaro
+   idiliO
+   heroalistar
+   slimshady
+   vurtax
+   heartlessdragon
+   Defa
+   Acanthite Team
+   Palladium Forums
+   Spherical-Ice
+   spaceemotion
+   lichenprincess
+   
+   
+
+### SCRIPTS ###
+   FL
+   raZ
+   Rei
+   NettoHikari
+   Luka S.J.
+   mej71
+   shiney570
+   Maruno
+   thepsynergist
+   Vendily
+   Members of the Community Script Project
+   Nuri Yuri
+   Cilerba
+   GiraPrimal
+   DoesntKnowHowToPlay
+   KleinStudio
+   Michael
+   BIGFRIV + extra credit for the continued AI support throughout the project
+   Marcello
+   JV
+   Sr. Haruno
+   Pokemon Reborn Team
+   derFischae
+   Boonzeet
+   ForeverZer0
+   Ccoa
+   Agckuu
+   Blizzard
+   SunakazeKun
+   Zerokid
+   Aurum
+   JohtoBlaziken
+   Mr. Gela
+   Lucidious89
+   
+   #------- Misc -------#
+   Aprogergly #Wiki
+   TechSkylander1658 #Wiki
+   Dr. Bleh #Shiny
+   GreatTitan3 #Shiny
+   shady #9898 #Shiny
+   Crystalmystria#0020 #Shiny
+   Solartile #Trainers
+   Phantombass #Scripts
+   Haku #Shiny
+   BiggusWeeabus #A lot of sprites in general including shinies
+   Mike / Productiepoes #Sprites
+   Samurux #Trainers
+   StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree # Gen 8 Move animation project
+   caruban # gen 9 resource pack
+   Angelkitsune #reborn related?
+   theluiz #battle sprites maybe?
+   eparagon #battle sprites maybe?
+   mangamanga #battle sprites maybe?
+   MrDollSteak # something to do with rom hacking?  
+   NanaelJustice
+   Zein
+   
+
+
+
+
+
+
+   
+ 
+   
+  
