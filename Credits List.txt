@@ -74,6 +74,7 @@ Pokemon Essentials was used for the project, so full credits to the creators (al
    dirkriptide
    Ploaj
    silversail
+   Spork
 
    
    #------- Animations -------#
@@ -335,6 +336,9 @@ Pokemon Essentials was used for the project, so full credits to the creators (al
    JohtoBlaziken
    Mr. Gela
    Lucidious89
+   LowEffort
+   Gardenette
+  
    
    #------- Misc -------#
    Aprogergly #Wiki
@@ -357,7 +361,9 @@ Pokemon Essentials was used for the project, so full credits to the creators (al
    mangamanga #battle sprites maybe?
    MrDollSteak # something to do with rom hacking?  
    NanaelJustice
-   Zein
+   Zein 
+   Jett Lee
+   Scott Cawthon
    
 
 
