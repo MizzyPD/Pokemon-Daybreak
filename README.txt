@@ -1,4 +1,6 @@
-READ ME
+READ ME !!!!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                              
                                                                                                                                                 
                                                                                                                                                  
@@ -36,10 +38,23 @@ READ ME
                                                   @@*******(&//&&//((((#&&&////////%//////&@@@@@@@@@@@@@&&&&&&&&&&&&&&@@@@@@                     
 						 
 						 
-						 
+------------------------------------------------------------------------------------------------------------------------------------------------------						 
 			  
-			  
-FAQ:
+		
+How to download the game: Go to github.com/MizzyPD/Pokemon-Daybreak  ; Next, go to code > download zip
+
+How to get fast updates! : Follow the fastupdates.png guide found in the same folder as the readme.txt
+
+How to play: use game-z or game-exe, whatever works best for you.
+
+Wiki: https://pokemon-daybreak.fandom.com/wiki/Pok%C3%A9mon_Daybreak_Wiki
+
+Discord: https://discord.gg/sPM3f3r
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                              FAQ:
 
 Q. I found a bug! What do I do?
 A. The best course of action is to join the discord server and report it there so we can update the github faster and fix it for new players.
