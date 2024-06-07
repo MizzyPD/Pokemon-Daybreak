@@ -155,6 +155,7 @@ Pokemon Essentials was used for the project, so full credits to the creators (al
    Nozu
    iiPudd1ng
    Kalalokki
+   Glaiver
    Pixelheim
    RadicalCharizard
    NoelleMBrooks
